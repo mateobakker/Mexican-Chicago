@@ -1,0 +1,2457 @@
+state,municipality,cvegeo,municipality_name_inegi,state_name_inegi
+Aguascalientes,Aguascalientes,01001,NA,NA
+Aguascalientes,Asientos,01002,NA,NA
+Aguascalientes,Calvillo,01003,NA,NA
+Aguascalientes,Cosío,01004,NA,NA
+Aguascalientes,El Llano,01010,NA,NA
+Aguascalientes,Jesús María,01005,NA,NA
+Aguascalientes,Pabellón de Arteaga,01006,NA,NA
+Aguascalientes,Rincón de Romos,01007,NA,NA
+Aguascalientes,San Francisco de los Romo,01011,NA,NA
+Aguascalientes,San José de Gracia,01008,NA,NA
+Aguascalientes,Tepezalá,01009,NA,NA
+Baja California,Ensenada,02001,NA,NA
+Baja California,Mexicali,02002,NA,NA
+Baja California,Playas de Rosarito,02005,NA,NA
+Baja California,Tecate,02003,NA,NA
+Baja California,Tijuana,02004,NA,NA
+Baja California Sur,Comondú,03001,NA,NA
+Baja California Sur,La Paz,03003,NA,NA
+Baja California Sur,Loreto,03009,NA,NA
+Baja California Sur,Los Cabos,03008,NA,NA
+Baja California Sur,Mulegé,03002,NA,NA
+Campeche,Calakmul,04010,NA,NA
+Campeche,Calkiní,04001,NA,NA
+Campeche,Campeche,04002,NA,NA
+Campeche,Candelaria,04011,NA,NA
+Campeche,Carmen,04003,NA,NA
+Campeche,Champotón,04004,NA,NA
+Campeche,Escárcega,04009,NA,NA
+Campeche,Hecelchakán,04005,NA,NA
+Campeche,Hopelchén,04006,NA,NA
+Campeche,Palizada,04007,NA,NA
+Campeche,Tenabo,04008,NA,NA
+Coahuila,Abasolo,05001,NA,Coahuila de Zaragoza
+Coahuila,Acuña,05002,NA,Coahuila de Zaragoza
+Coahuila,Allende,05003,NA,Coahuila de Zaragoza
+Coahuila,Arteaga,05004,NA,Coahuila de Zaragoza
+Coahuila,Candela,05005,NA,Coahuila de Zaragoza
+Coahuila,Castaños,05006,NA,Coahuila de Zaragoza
+Coahuila,Cuatro Ciénegas,05007,NA,Coahuila de Zaragoza
+Coahuila,Escobedo,05008,NA,Coahuila de Zaragoza
+Coahuila,Francisco I. Madero,05009,NA,Coahuila de Zaragoza
+Coahuila,Frontera,05010,NA,Coahuila de Zaragoza
+Coahuila,General Cepeda,05011,NA,Coahuila de Zaragoza
+Coahuila,Guerrero,05012,NA,Coahuila de Zaragoza
+Coahuila,Hidalgo,05013,NA,Coahuila de Zaragoza
+Coahuila,Jiménez,05014,NA,Coahuila de Zaragoza
+Coahuila,Juárez,05015,NA,Coahuila de Zaragoza
+Coahuila,Lamadrid,05016,NA,Coahuila de Zaragoza
+Coahuila,Matamoros,05017,NA,Coahuila de Zaragoza
+Coahuila,Monclova,05018,NA,Coahuila de Zaragoza
+Coahuila,Morelos,05019,NA,Coahuila de Zaragoza
+Coahuila,Múzquiz,05020,NA,Coahuila de Zaragoza
+Coahuila,Nadadores,05021,NA,Coahuila de Zaragoza
+Coahuila,Nava,05022,NA,Coahuila de Zaragoza
+Coahuila,Ocampo,05023,NA,Coahuila de Zaragoza
+Coahuila,Parras,05024,NA,Coahuila de Zaragoza
+Coahuila,Piedras Negras,05025,NA,Coahuila de Zaragoza
+Coahuila,Progreso,05026,NA,Coahuila de Zaragoza
+Coahuila,Ramos Arizpe,05027,NA,Coahuila de Zaragoza
+Coahuila,Sabinas,05028,NA,Coahuila de Zaragoza
+Coahuila,Sacramento,05029,NA,Coahuila de Zaragoza
+Coahuila,Saltillo,05030,NA,Coahuila de Zaragoza
+Coahuila,San Buenaventura,05031,NA,Coahuila de Zaragoza
+Coahuila,San Juan de Sabinas,05032,NA,Coahuila de Zaragoza
+Coahuila,San Pedro,05033,NA,Coahuila de Zaragoza
+Coahuila,Sierra Mojada,05034,NA,Coahuila de Zaragoza
+Coahuila,Torreón,05035,NA,Coahuila de Zaragoza
+Coahuila,Viesca,05036,NA,Coahuila de Zaragoza
+Coahuila,Villa Unión,05037,NA,Coahuila de Zaragoza
+Coahuila,Zaragoza,05038,NA,Coahuila de Zaragoza
+Colima,Armería,06001,NA,NA
+Colima,Colima,06002,NA,NA
+Colima,Comala,06003,NA,NA
+Colima,Coquimatlán,06004,NA,NA
+Colima,Cuauhtémoc,06005,NA,NA
+Colima,Ixtlahuacán,06006,NA,NA
+Colima,Manzanillo,06007,NA,NA
+Colima,Minatitlán,06008,NA,NA
+Colima,Tecomán,06009,NA,NA
+Colima,Villa de Álvarez,06010,NA,NA
+Chiapas,Acacoyagua,07001,NA,NA
+Chiapas,Acala,07002,NA,NA
+Chiapas,Acapetahua,07003,NA,NA
+Chiapas,Aldama,07113,NA,NA
+Chiapas,Altamirano,07004,NA,NA
+Chiapas,Amatán,07005,NA,NA
+Chiapas,Amatenango de la Frontera,07006,NA,NA
+Chiapas,Amatenango del Valle,07007,NA,NA
+Chiapas,Angel Albino Corzo,07008,NA,NA
+Chiapas,Arriaga,07009,NA,NA
+Chiapas,Bejucal de Ocampo,07010,NA,NA
+Chiapas,Bella Vista,07011,NA,NA
+Chiapas,Benemérito de las Américas,07114,NA,NA
+Chiapas,Berriozábal,07012,NA,NA
+Chiapas,Bochil,07013,NA,NA
+Chiapas,Cacahoatán,07015,NA,NA
+Chiapas,Catazajá,07016,NA,NA
+Chiapas,Chalchihuitán,07022,NA,NA
+Chiapas,Chamula,07023,NA,NA
+Chiapas,Chanal,07024,NA,NA
+Chiapas,Chapultenango,07025,NA,NA
+Chiapas,Chenalhó,07026,NA,NA
+Chiapas,Chiapa de Corzo,07027,NA,NA
+Chiapas,Chiapilla,07028,NA,NA
+Chiapas,Chicoasén,07029,NA,NA
+Chiapas,Chicomuselo,07030,NA,NA
+Chiapas,Chilón,07031,NA,NA
+Chiapas,Cintalapa,07017,NA,NA
+Chiapas,Coapilla,07018,NA,NA
+Chiapas,Comitán de Domínguez,07019,NA,NA
+Chiapas,Copainalá,07021,NA,NA
+Chiapas,El Bosque,07014,NA,NA
+Chiapas,El Porvenir,07070,NA,NA
+Chiapas,Escuintla,07032,NA,NA
+Chiapas,Francisco León,07033,NA,NA
+Chiapas,Frontera Comalapa,07034,NA,NA
+Chiapas,Frontera Hidalgo,07035,NA,NA
+Chiapas,Huehuetán,07037,NA,NA
+Chiapas,Huitiupán,07039,NA,NA
+Chiapas,Huixtán,07038,NA,NA
+Chiapas,Huixtla,07040,NA,NA
+Chiapas,Ixhuatán,07042,NA,NA
+Chiapas,Ixtacomitán,07043,NA,NA
+Chiapas,Ixtapa,07044,NA,NA
+Chiapas,Ixtapangajoya,07045,NA,NA
+Chiapas,Jiquipilas,07046,NA,NA
+Chiapas,Jitotol,07047,NA,NA
+Chiapas,Juárez,07048,NA,NA
+Chiapas,La Concordia,07020,NA,NA
+Chiapas,La Grandeza,07036,NA,NA
+Chiapas,La Independencia,07041,NA,NA
+Chiapas,La Libertad,07050,NA,NA
+Chiapas,La Trinitaria,07099,NA,NA
+Chiapas,Larráinzar,07049,NA,NA
+Chiapas,Las Margaritas,07052,NA,NA
+Chiapas,Las Rosas,07075,NA,NA
+Chiapas,Mapastepec,07051,NA,NA
+Chiapas,Maravilla Tenejapa,07115,NA,NA
+Chiapas,Marqués de Comillas,07116,NA,NA
+Chiapas,Mazapa de Madero,07053,NA,NA
+Chiapas,Mazatán,07054,NA,NA
+Chiapas,Metapa,07055,NA,NA
+Chiapas,Mitontic,07056,NA,NA
+Chiapas,Montecristo de Guerrero,07117,NA,NA
+Chiapas,Motozintla,07057,NA,NA
+Chiapas,Nicolás Ruiz,07058,Nicolás Ruíz,NA
+Chiapas,Ocosingo,07059,NA,NA
+Chiapas,Ocotepec,07060,NA,NA
+Chiapas,Ocozocoautla de Espinosa,07061,NA,NA
+Chiapas,Ostuacán,07062,NA,NA
+Chiapas,Osumacinta,07063,NA,NA
+Chiapas,Oxchuc,07064,NA,NA
+Chiapas,Palenque,07065,NA,NA
+Chiapas,Pantelhó,07066,NA,NA
+Chiapas,Pantepec,07067,NA,NA
+Chiapas,Pichucalco,07068,NA,NA
+Chiapas,Pijijiapan,07069,NA,NA
+Chiapas,Pueblo Nuevo Solistahuacán,07072,NA,NA
+Chiapas,Rayón,07073,NA,NA
+Chiapas,Reforma,07074,NA,NA
+Chiapas,Sabanilla,07076,NA,NA
+Chiapas,Salto de Agua,07077,NA,NA
+Chiapas,San Andrés Duraznal,07118,NA,NA
+Chiapas,San Cristóbal de las Casas,07078,NA,NA
+Chiapas,San Fernando,07079,NA,NA
+Chiapas,San Juan Cancuc,07112,NA,NA
+Chiapas,San Lucas,07110,NA,NA
+Chiapas,Santiago el Pinar,07119,NA,NA
+Chiapas,Siltepec,07080,NA,NA
+Chiapas,Simojovel,07081,NA,NA
+Chiapas,Sitalá,07082,NA,NA
+Chiapas,Socoltenango,07083,NA,NA
+Chiapas,Solosuchiapa,07084,NA,NA
+Chiapas,Soyaló,07085,NA,NA
+Chiapas,Suchiapa,07086,NA,NA
+Chiapas,Suchiate,07087,NA,NA
+Chiapas,Sunuapa,07088,NA,NA
+Chiapas,Tapachula,07089,NA,NA
+Chiapas,Tapalapa,07090,NA,NA
+Chiapas,Tapilula,07091,NA,NA
+Chiapas,Tecpatán,07092,NA,NA
+Chiapas,Tenejapa,07093,NA,NA
+Chiapas,Teopisca,07094,NA,NA
+Chiapas,Tila,07096,NA,NA
+Chiapas,Tonalá,07097,NA,NA
+Chiapas,Totolapa,07098,NA,NA
+Chiapas,Tumbalá,07100,NA,NA
+Chiapas,Tuxtla Chico,07102,NA,NA
+Chiapas,Tuxtla Gutiérrez,07101,NA,NA
+Chiapas,Tuzantán,07103,NA,NA
+Chiapas,Tzimol,07104,NA,NA
+Chiapas,Unión Juárez,07105,NA,NA
+Chiapas,Venustiano Carranza,07106,NA,NA
+Chiapas,Villa Comaltitlán,07071,NA,NA
+Chiapas,Villa Corzo,07107,NA,NA
+Chiapas,Villaflores,07108,NA,NA
+Chiapas,Yajalón,07109,NA,NA
+Chiapas,Zinacantán,07111,NA,NA
+Chihuahua,Ahumada,08001,NA,NA
+Chihuahua,Aldama,08002,NA,NA
+Chihuahua,Allende,08003,NA,NA
+Chihuahua,Aquiles Serdán,08004,NA,NA
+Chihuahua,Ascensión,08005,NA,NA
+Chihuahua,Bachíniva,08006,NA,NA
+Chihuahua,Balleza,08007,NA,NA
+Chihuahua,Batopilas,08008,Batopilas de Manuel Gómez Morín,NA
+Chihuahua,Bocoyna,08009,NA,NA
+Chihuahua,Buenaventura,08010,NA,NA
+Chihuahua,Camargo,08011,NA,NA
+Chihuahua,Carichí,08012,NA,NA
+Chihuahua,Casas Grandes,08013,NA,NA
+Chihuahua,Chihuahua,08019,NA,NA
+Chihuahua,Chínipas,08020,NA,NA
+Chihuahua,Coronado,08014,NA,NA
+Chihuahua,Coyame del Sotol,08015,NA,NA
+Chihuahua,Cuauhtémoc,08017,NA,NA
+Chihuahua,Cusihuiriachi,08018,NA,NA
+Chihuahua,Delicias,08021,NA,NA
+Chihuahua,Dr. Belisario Domínguez,08022,NA,NA
+Chihuahua,El Tule,08064,NA,NA
+Chihuahua,Galeana,08023,NA,NA
+Chihuahua,Gómez Farías,08025,NA,NA
+Chihuahua,Gran Morelos,08026,NA,NA
+Chihuahua,Guachochi,08027,NA,NA
+Chihuahua,Guadalupe,08028,NA,NA
+Chihuahua,Guadalupe y Calvo,08029,NA,NA
+Chihuahua,Guazapares,08030,NA,NA
+Chihuahua,Guerrero,08031,NA,NA
+Chihuahua,Hidalgo del Parral,08032,NA,NA
+Chihuahua,Huejotitán,08033,NA,NA
+Chihuahua,Ignacio Zaragoza,08034,NA,NA
+Chihuahua,Janos,08035,NA,NA
+Chihuahua,Jiménez,08036,NA,NA
+Chihuahua,Juárez,08037,NA,NA
+Chihuahua,Julimes,08038,NA,NA
+Chihuahua,La Cruz,08016,NA,NA
+Chihuahua,López,08039,NA,NA
+Chihuahua,Madera,08040,NA,NA
+Chihuahua,Maguarichi,08041,NA,NA
+Chihuahua,Manuel Benavides,08042,NA,NA
+Chihuahua,Matachí,08043,NA,NA
+Chihuahua,Matamoros,08044,NA,NA
+Chihuahua,Meoqui,08045,NA,NA
+Chihuahua,Morelos,08046,NA,NA
+Chihuahua,Moris,08047,NA,NA
+Chihuahua,Namiquipa,08048,NA,NA
+Chihuahua,Nonoava,08049,NA,NA
+Chihuahua,Nuevo Casas Grandes,08050,NA,NA
+Chihuahua,Ocampo,08051,NA,NA
+Chihuahua,Ojinaga,08052,NA,NA
+Chihuahua,Praxedis G. Guerrero,08053,NA,NA
+Chihuahua,Riva Palacio,08054,NA,NA
+Chihuahua,Rosales,08055,NA,NA
+Chihuahua,Rosario,08056,NA,NA
+Chihuahua,San Francisco de Borja,08057,NA,NA
+Chihuahua,San Francisco de Conchos,08058,NA,NA
+Chihuahua,San Francisco del Oro,08059,NA,NA
+Chihuahua,Santa Bárbara,08060,NA,NA
+Chihuahua,Santa Isabel,08024,NA,NA
+Chihuahua,Satevó,08061,NA,NA
+Chihuahua,Saucillo,08062,NA,NA
+Chihuahua,Temósachic,08063,NA,NA
+Chihuahua,Urique,08065,NA,NA
+Chihuahua,Uruachi,08066,NA,NA
+Chihuahua,Valle de Zaragoza,08067,NA,NA
+Ciudad de México,Álvaro Obregón,09010,NA,NA
+Ciudad de México,Azcapotzalco,09002,NA,NA
+Ciudad de México,Benito Juárez,09014,NA,NA
+Ciudad de México,Coyoacán,09003,NA,NA
+Ciudad de México,Cuajimalpa de Morelos,09004,NA,NA
+Ciudad de México,Cuauhtémoc,09015,NA,NA
+Ciudad de México,Gustavo A. Madero,09005,NA,NA
+Ciudad de México,Iztacalco,09006,NA,NA
+Ciudad de México,Iztapalapa,09007,NA,NA
+Ciudad de México,La Magdalena Contreras,09008,NA,NA
+Ciudad de México,Miguel Hidalgo,09016,NA,NA
+Ciudad de México,Milpa Alta,09009,NA,NA
+Ciudad de México,Tláhuac,09011,NA,NA
+Ciudad de México,Tlalpan,09012,NA,NA
+Ciudad de México,Venustiano Carranza,09017,NA,NA
+Ciudad de México,Xochimilco,09013,NA,NA
+Durango,Canatlán,10001,NA,NA
+Durango,Canelas,10002,NA,NA
+Durango,Coneto de Comonfort,10003,NA,NA
+Durango,Cuencamé,10004,NA,NA
+Durango,Durango,10005,NA,NA
+Durango,El Oro,10018,NA,NA
+Durango,General Simón Bolívar,10006,NA,NA
+Durango,Gómez Palacio,10007,NA,NA
+Durango,Guadalupe Victoria,10008,NA,NA
+Durango,Guanaceví,10009,NA,NA
+Durango,Hidalgo,10010,NA,NA
+Durango,Indé,10011,NA,NA
+Durango,Lerdo,10012,NA,NA
+Durango,Mapimí,10013,NA,NA
+Durango,Mezquital,10014,NA,NA
+Durango,Nazas,10015,NA,NA
+Durango,Nombre de Dios,10016,NA,NA
+Durango,Nuevo Ideal,10039,NA,NA
+Durango,Ocampo,10017,NA,NA
+Durango,Otáez,10019,NA,NA
+Durango,Pánuco de Coronado,10020,NA,NA
+Durango,Peñón Blanco,10021,NA,NA
+Durango,Poanas,10022,NA,NA
+Durango,Pueblo Nuevo,10023,NA,NA
+Durango,Rodeo,10024,NA,NA
+Durango,San Bernardo,10025,NA,NA
+Durango,San Dimas,10026,NA,NA
+Durango,San Juan de Guadalupe,10027,NA,NA
+Durango,San Juan del Río,10028,NA,NA
+Durango,San Luis del Cordero,10029,NA,NA
+Durango,San Pedro del Gallo,10030,NA,NA
+Durango,Santa Clara,10031,NA,NA
+Durango,Santiago Papasquiaro,10032,NA,NA
+Durango,Súchil,10033,NA,NA
+Durango,Tamazula,10034,NA,NA
+Durango,Tepehuanes,10035,NA,NA
+Durango,Tlahualilo,10036,NA,NA
+Durango,Topia,10037,NA,NA
+Durango,Vicente Guerrero,10038,NA,NA
+México,Acambay,15001,Acambay de Ruíz Castañeda,NA
+México,Acolman,15002,NA,NA
+México,Aculco,15003,NA,NA
+México,Almoloya de Alquisiras,15004,NA,NA
+México,Almoloya de Juárez,15005,NA,NA
+México,Almoloya del Río,15006,NA,NA
+México,Amanalco,15007,NA,NA
+México,Amatepec,15008,NA,NA
+México,Amecameca,15009,NA,NA
+México,Apaxco,15010,NA,NA
+México,Atenco,15011,NA,NA
+México,Atizapán,15012,NA,NA
+México,Atizapán de Zaragoza,15013,NA,NA
+México,Atlacomulco,15014,NA,NA
+México,Atlautla,15015,NA,NA
+México,Axapusco,15016,NA,NA
+México,Ayapango,15017,NA,NA
+México,Calimaya,15018,NA,NA
+México,Capulhuac,15019,NA,NA
+México,Chalco,15025,NA,NA
+México,Chapa de Mota,15026,NA,NA
+México,Chapultepec,15027,NA,NA
+México,Chiautla,15028,NA,NA
+México,Chicoloapan,15029,NA,NA
+México,Chiconcuac,15030,NA,NA
+México,Chimalhuacán,15031,NA,NA
+México,Coacalco de Berriozábal,15020,NA,NA
+México,Coatepec Harinas,15021,NA,NA
+México,Cocotitlán,15022,NA,NA
+México,Coyotepec,15023,NA,NA
+México,Cuautitlán,15024,NA,NA
+México,Cuautitlán Izcalli,15121,NA,NA
+México,Donato Guerra,15032,NA,NA
+México,Ecatepec de Morelos,15033,NA,NA
+México,Ecatzingo,15034,NA,NA
+México,El Oro,15064,NA,NA
+México,Huehuetoca,15035,NA,NA
+México,Hueypoxtla,15036,NA,NA
+México,Huixquilucan,15037,NA,NA
+México,Isidro Fabela,15038,NA,NA
+México,Ixtapaluca,15039,NA,NA
+México,Ixtapan de la Sal,15040,NA,NA
+México,Ixtapan del Oro,15041,NA,NA
+México,Ixtlahuaca,15042,NA,NA
+México,Jaltenco,15044,NA,NA
+México,Jilotepec,15045,NA,NA
+México,Jilotzingo,15046,NA,NA
+México,Jiquipilco,15047,NA,NA
+México,Jocotitlán,15048,NA,NA
+México,Joquicingo,15049,NA,NA
+México,Juchitepec,15050,NA,NA
+México,La Paz,15070,NA,NA
+México,Lerma,15051,NA,NA
+México,Luvianos,15123,NA,NA
+México,Malinalco,15052,NA,NA
+México,Melchor Ocampo,15053,NA,NA
+México,Metepec,15054,NA,NA
+México,Mexicaltzingo,15055,NA,NA
+México,Morelos,15056,NA,NA
+México,Naucalpan de Juárez,15057,NA,NA
+México,Nextlalpan,15059,NA,NA
+México,Nezahualcóyotl,15058,NA,NA
+México,Nicolás Romero,15060,NA,NA
+México,Nopaltepec,15061,NA,NA
+México,Ocoyoacac,15062,NA,NA
+México,Ocuilan,15063,NA,NA
+México,Otumba,15065,NA,NA
+México,Otzoloapan,15066,NA,NA
+México,Otzolotepec,15067,NA,NA
+México,Ozumba,15068,NA,NA
+México,Papalotla,15069,NA,NA
+México,Polotitlán,15071,NA,NA
+México,Rayón,15072,NA,NA
+México,San Antonio la Isla,15073,NA,NA
+México,San Felipe del Progreso,15074,NA,NA
+México,San José del Rincón,15124,NA,NA
+México,San Martín de las Pirámides,15075,NA,NA
+México,San Mateo Atenco,15076,NA,NA
+México,San Simón de Guerrero,15077,NA,NA
+México,Santo Tomás,15078,NA,NA
+México,Soyaniquilpan de Juárez,15079,NA,NA
+México,Sultepec,15080,NA,NA
+México,Tecámac,15081,NA,NA
+México,Tejupilco,15082,NA,NA
+México,Temamatla,15083,NA,NA
+México,Temascalapa,15084,NA,NA
+México,Temascalcingo,15085,NA,NA
+México,Temascaltepec,15086,NA,NA
+México,Temoaya,15087,NA,NA
+México,Tenancingo,15088,NA,NA
+México,Tenango del Aire,15089,NA,NA
+México,Tenango del Valle,15090,NA,NA
+México,Teoloyucán,15091,Teoloyucan,NA
+México,Teotihuacán,15092,NA,NA
+México,Tepetlaoxtoc,15093,NA,NA
+México,Tepetlixpa,15094,NA,NA
+México,Tepotzotlán,15095,NA,NA
+México,Tequixquiac,15096,NA,NA
+México,Texcaltitlán,15097,NA,NA
+México,Texcalyacac,15098,NA,NA
+México,Texcoco,15099,NA,NA
+México,Tezoyuca,15100,NA,NA
+México,Tianguistenco,15101,NA,NA
+México,Timilpan,15102,NA,NA
+México,Tlalmanalco,15103,NA,NA
+México,Tlalnepantla de Baz,15104,NA,NA
+México,Tlatlaya,15105,NA,NA
+México,Toluca,15106,NA,NA
+México,Tonanitla,15125,NA,NA
+México,Tonatico,15107,NA,NA
+México,Tultepec,15108,NA,NA
+México,Tultitlán,15109,NA,NA
+México,Valle de Bravo,15110,NA,NA
+México,Valle de Chalco Solidaridad,15122,NA,NA
+México,Villa de Allende,15111,NA,NA
+México,Villa del Carbón,15112,NA,NA
+México,Villa Guerrero,15113,NA,NA
+México,Villa Victoria,15114,NA,NA
+México,Xalatlaco,15043,NA,NA
+México,Xonacatlán,15115,NA,NA
+México,Zacazonapan,15116,NA,NA
+México,Zacualpan,15117,NA,NA
+México,Zinacantepec,15118,NA,NA
+México,Zumpahuacán,15119,NA,NA
+México,Zumpango,15120,NA,NA
+Guanajuato,Abasolo,11001,NA,NA
+Guanajuato,Acámbaro,11002,NA,NA
+Guanajuato,Apaseo el Alto,11004,NA,NA
+Guanajuato,Apaseo el Grande,11005,NA,NA
+Guanajuato,Atarjea,11006,NA,NA
+Guanajuato,Celaya,11007,NA,NA
+Guanajuato,Comonfort,11009,NA,NA
+Guanajuato,Coroneo,11010,NA,NA
+Guanajuato,Cortazar,11011,NA,NA
+Guanajuato,Cuerámaro,11012,NA,NA
+Guanajuato,Doctor Mora,11013,NA,NA
+Guanajuato,Dolores Hidalgo Cuna de la Independencia Nal.,11014,Dolores Hidalgo Cuna de la Independencia Nacional,NA
+Guanajuato,Guanajuato,11015,NA,NA
+Guanajuato,Huanímaro,11016,NA,NA
+Guanajuato,Irapuato,11017,NA,NA
+Guanajuato,Jaral del Progreso,11018,NA,NA
+Guanajuato,Jerécuaro,11019,NA,NA
+Guanajuato,León,11020,NA,NA
+Guanajuato,Manuel Doblado,11008,NA,NA
+Guanajuato,Moroleón,11021,NA,NA
+Guanajuato,Ocampo,11022,NA,NA
+Guanajuato,Pénjamo,11023,NA,NA
+Guanajuato,Pueblo Nuevo,11024,NA,NA
+Guanajuato,Purísima del Rincón,11025,NA,NA
+Guanajuato,Romita,11026,NA,NA
+Guanajuato,Salamanca,11027,NA,NA
+Guanajuato,Salvatierra,11028,NA,NA
+Guanajuato,San Diego de la Unión,11029,NA,NA
+Guanajuato,San Felipe,11030,NA,NA
+Guanajuato,San Francisco del Rincón,11031,NA,NA
+Guanajuato,San José Iturbide,11032,NA,NA
+Guanajuato,San Luis de la Paz,11033,NA,NA
+Guanajuato,San Miguel de Allende,11003,NA,NA
+Guanajuato,Santa Catarina,11034,NA,NA
+Guanajuato,Santa Cruz de Juventino Rosas,11035,NA,NA
+Guanajuato,Santiago Maravatío,11036,NA,NA
+Guanajuato,Silao,11037,Silao de la Victoria,NA
+Guanajuato,Tarandacuao,11038,NA,NA
+Guanajuato,Tarimoro,11039,NA,NA
+Guanajuato,Tierra Blanca,11040,NA,NA
+Guanajuato,Uriangato,11041,NA,NA
+Guanajuato,Valle de Santiago,11042,NA,NA
+Guanajuato,Victoria,11043,NA,NA
+Guanajuato,Villagrán,11044,NA,NA
+Guanajuato,Xichú,11045,NA,NA
+Guanajuato,Yuriria,11046,NA,NA
+Guerrero,Acapulco de Juárez,12001,NA,NA
+Guerrero,Acatepec,12076,NA,NA
+Guerrero,Ahuacuotzingo,12002,NA,NA
+Guerrero,Ajuchitlán del Progreso,12003,NA,NA
+Guerrero,Alcozauca de Guerrero,12004,NA,NA
+Guerrero,Alpoyeca,12005,NA,NA
+Guerrero,Apaxtla,12006,NA,NA
+Guerrero,Arcelia,12007,NA,NA
+Guerrero,Atenango del Río,12008,NA,NA
+Guerrero,Atlamajalcingo del Monte,12009,NA,NA
+Guerrero,Atlixtac,12010,NA,NA
+Guerrero,Atoyac de Álvarez,12011,NA,NA
+Guerrero,Ayutla de los Libres,12012,NA,NA
+Guerrero,Azoyú,12013,NA,NA
+Guerrero,Benito Juárez,12014,NA,NA
+Guerrero,Buenavista de Cuéllar,12015,NA,NA
+Guerrero,Chilapa de Álvarez,12028,NA,NA
+Guerrero,Chilpancingo de los Bravo,12029,NA,NA
+Guerrero,Coahuayutla de José María Izazaga,12016,NA,NA
+Guerrero,Cochoapa el Grande,12078,NA,NA
+Guerrero,Cocula,12017,NA,NA
+Guerrero,Copala,12018,NA,NA
+Guerrero,Copalillo,12019,NA,NA
+Guerrero,Copanatoyac,12020,NA,NA
+Guerrero,Coyuca de Benítez,12021,NA,NA
+Guerrero,Coyuca de Catalán,12022,NA,NA
+Guerrero,Cuajinicuilapa,12023,NA,NA
+Guerrero,Cualác,12024,NA,NA
+Guerrero,Cuautepec,12025,NA,NA
+Guerrero,Cuetzala del Progreso,12026,NA,NA
+Guerrero,Cutzamala de Pinzón,12027,NA,NA
+Guerrero,Eduardo Neri,12075,NA,NA
+Guerrero,Florencio Villarreal,12030,NA,NA
+Guerrero,General Canuto A. Neri,12031,NA,NA
+Guerrero,General Heliodoro Castillo,12032,NA,NA
+Guerrero,Huamuxtitlán,12033,NA,NA
+Guerrero,Huitzuco de los Figueroa,12034,NA,NA
+Guerrero,Iguala de la Independencia,12035,NA,NA
+Guerrero,Igualapa,12036,NA,NA
+Guerrero,Iliatenco,12081,NA,NA
+Guerrero,Ixcateopan de Cuauhtémoc,12037,NA,NA
+Guerrero,Zihuatanejo de Azueta,12038,NA,NA
+Guerrero,José Joaquín de Herrera,12079,NA,NA
+Guerrero,Juan R. Escudero,12039,NA,NA
+Guerrero,Juchitán,12080,NA,NA
+Guerrero,La Unión de Isidoro Montes de Oca,12068,NA,NA
+Guerrero,Leonardo Bravo,12040,NA,NA
+Guerrero,Malinaltepec,12041,NA,NA
+Guerrero,Marquelia,12077,NA,NA
+Guerrero,Mártir de Cuilapan,12042,NA,NA
+Guerrero,Metlatónoc,12043,NA,NA
+Guerrero,Mochitlán,12044,NA,NA
+Guerrero,Olinalá,12045,NA,NA
+Guerrero,Ometepec,12046,NA,NA
+Guerrero,Pedro Ascencio Alquisiras,12047,NA,NA
+Guerrero,Petatlán,12048,NA,NA
+Guerrero,Pilcaya,12049,NA,NA
+Guerrero,Pungarabato,12050,NA,NA
+Guerrero,Quechultenango,12051,NA,NA
+Guerrero,San Luis Acatlán,12052,NA,NA
+Guerrero,San Marcos,12053,NA,NA
+Guerrero,San Miguel Totolapan,12054,NA,NA
+Guerrero,Taxco de Alarcón,12055,NA,NA
+Guerrero,Tecoanapa,12056,NA,NA
+Guerrero,Técpan de Galeana,12057,NA,NA
+Guerrero,Teloloapan,12058,NA,NA
+Guerrero,Tepecoacuilco de Trujano,12059,NA,NA
+Guerrero,Tetipac,12060,NA,NA
+Guerrero,Tixtla de Guerrero,12061,NA,NA
+Guerrero,Tlacoachistlahuaca,12062,NA,NA
+Guerrero,Tlacoapa,12063,NA,NA
+Guerrero,Tlalchapa,12064,NA,NA
+Guerrero,Tlalixtaquilla de Maldonado,12065,NA,NA
+Guerrero,Tlapa de Comonfort,12066,NA,NA
+Guerrero,Tlapehuala,12067,NA,NA
+Guerrero,Xalpatláhuac,12069,NA,NA
+Guerrero,Xochihuehuetlán,12070,NA,NA
+Guerrero,Xochistlahuaca,12071,NA,NA
+Guerrero,Zapotitlán Tablas,12072,NA,NA
+Guerrero,Zirándaro,12073,NA,NA
+Guerrero,Zitlala,12074,NA,NA
+Hidalgo,Acatlán,13001,NA,NA
+Hidalgo,Acaxochitlán,13002,NA,NA
+Hidalgo,Actopan,13003,NA,NA
+Hidalgo,Agua Blanca de Iturbide,13004,NA,NA
+Hidalgo,Ajacuba,13005,NA,NA
+Hidalgo,Alfajayucan,13006,NA,NA
+Hidalgo,Almoloya,13007,NA,NA
+Hidalgo,Apan,13008,NA,NA
+Hidalgo,Atitalaquia,13010,NA,NA
+Hidalgo,Atlapexco,13011,NA,NA
+Hidalgo,Atotonilco de Tula,13013,NA,NA
+Hidalgo,Atotonilco el Grande,13012,NA,NA
+Hidalgo,Calnali,13014,NA,NA
+Hidalgo,Cardonal,13015,NA,NA
+Hidalgo,Chapantongo,13017,NA,NA
+Hidalgo,Chapulhuacán,13018,NA,NA
+Hidalgo,Chilcuautla,13019,NA,NA
+Hidalgo,Cuautepec de Hinojosa,13016,NA,NA
+Hidalgo,El Arenal,13009,NA,NA
+Hidalgo,Eloxochitlán,13020,NA,NA
+Hidalgo,Emiliano Zapata,13021,NA,NA
+Hidalgo,Epazoyucan,13022,NA,NA
+Hidalgo,Francisco I. Madero,13023,NA,NA
+Hidalgo,Huasca de Ocampo,13024,NA,NA
+Hidalgo,Huautla,13025,NA,NA
+Hidalgo,Huazalingo,13026,NA,NA
+Hidalgo,Huehuetla,13027,NA,NA
+Hidalgo,Huejutla de Reyes,13028,NA,NA
+Hidalgo,Huichapan,13029,NA,NA
+Hidalgo,Ixmiquilpan,13030,NA,NA
+Hidalgo,Jacala de Ledezma,13031,NA,NA
+Hidalgo,Jaltocán,13032,NA,NA
+Hidalgo,Juárez Hidalgo,13033,NA,NA
+Hidalgo,La Misión,13040,NA,NA
+Hidalgo,Lolotla,13034,NA,NA
+Hidalgo,Metepec,13035,NA,NA
+Hidalgo,Metztitlán,13037,NA,NA
+Hidalgo,Mineral de la Reforma,13051,NA,NA
+Hidalgo,Mineral del Chico,13038,NA,NA
+Hidalgo,Mineral del Monte,13039,NA,NA
+Hidalgo,Mixquiahuala de Juárez,13041,NA,NA
+Hidalgo,Molango de Escamilla,13042,NA,NA
+Hidalgo,Nicolás Flores,13043,NA,NA
+Hidalgo,Nopala de Villagrán,13044,NA,NA
+Hidalgo,Omitlán de Juárez,13045,NA,NA
+Hidalgo,Pachuca de Soto,13048,NA,NA
+Hidalgo,Pacula,13047,NA,NA
+Hidalgo,Pisaflores,13049,NA,NA
+Hidalgo,Progreso de Obregón,13050,NA,NA
+Hidalgo,San Agustín Metzquititlán,13036,NA,NA
+Hidalgo,San Agustín Tlaxiaca,13052,NA,NA
+Hidalgo,San Bartolo Tutotepec,13053,NA,NA
+Hidalgo,San Felipe Orizatlán,13046,NA,NA
+Hidalgo,San Salvador,13054,NA,NA
+Hidalgo,Santiago de Anaya,13055,NA,NA
+Hidalgo,Santiago Tulantepec de Lugo Guerrero,13056,NA,NA
+Hidalgo,Singuilucan,13057,NA,NA
+Hidalgo,Tasquillo,13058,NA,NA
+Hidalgo,Tecozautla,13059,NA,NA
+Hidalgo,Tenango de Doria,13060,NA,NA
+Hidalgo,Tepeapulco,13061,NA,NA
+Hidalgo,Tepehuacán de Guerrero,13062,NA,NA
+Hidalgo,Tepeji del Río de Ocampo,13063,NA,NA
+Hidalgo,Tepetitlán,13064,NA,NA
+Hidalgo,Tetepango,13065,NA,NA
+Hidalgo,Tezontepec de Aldama,13067,NA,NA
+Hidalgo,Tianguistengo,13068,NA,NA
+Hidalgo,Tizayuca,13069,NA,NA
+Hidalgo,Tlahuelilpan,13070,NA,NA
+Hidalgo,Tlahuiltepa,13071,NA,NA
+Hidalgo,Tlanalapa,13072,NA,NA
+Hidalgo,Tlanchinol,13073,NA,NA
+Hidalgo,Tlaxcoapan,13074,NA,NA
+Hidalgo,Tolcayuca,13075,NA,NA
+Hidalgo,Tula de Allende,13076,NA,NA
+Hidalgo,Tulancingo de Bravo,13077,NA,NA
+Hidalgo,Villa de Tezontepec,13066,NA,NA
+Hidalgo,Xochiatipan,13078,NA,NA
+Hidalgo,Xochicoatlán,13079,NA,NA
+Hidalgo,Yahualica,13080,NA,NA
+Hidalgo,Zacualtipán de Ángeles,13081,NA,NA
+Hidalgo,Zapotlán de Juárez,13082,NA,NA
+Hidalgo,Zempoala,13083,NA,NA
+Hidalgo,Zimapán,13084,NA,NA
+Jalisco,Acatic,14001,NA,NA
+Jalisco,Acatlán de Juárez,14002,NA,NA
+Jalisco,Ahualulco de Mercado,14003,NA,NA
+Jalisco,Amacueca,14004,NA,NA
+Jalisco,Amatitán,14005,NA,NA
+Jalisco,Ameca,14006,NA,NA
+Jalisco,Arandas,14008,NA,NA
+Jalisco,Atemajac de Brizuela,14010,NA,NA
+Jalisco,Atengo,14011,NA,NA
+Jalisco,Atenguillo,14012,NA,NA
+Jalisco,Atotonilco el Alto,14013,NA,NA
+Jalisco,Atoyac,14014,NA,NA
+Jalisco,Autlán de Navarro,14015,NA,NA
+Jalisco,Ayotlán,14016,NA,NA
+Jalisco,Ayutla,14017,NA,NA
+Jalisco,Bolaños,14019,NA,NA
+Jalisco,Cabo Corrientes,14020,NA,NA
+Jalisco,Cañadas de Obregón,14117,NA,NA
+Jalisco,Casimiro Castillo,14021,NA,NA
+Jalisco,Chapala,14030,NA,NA
+Jalisco,Chimaltitán,14031,NA,NA
+Jalisco,Chiquilistlán,14032,NA,NA
+Jalisco,Cihuatlán,14022,NA,NA
+Jalisco,Cocula,14024,NA,NA
+Jalisco,Colotlán,14025,NA,NA
+Jalisco,Concepción de Buenos Aires,14026,NA,NA
+Jalisco,Cuautitlán de García Barragán,14027,NA,NA
+Jalisco,Cuautla,14028,NA,NA
+Jalisco,Cuquío,14029,NA,NA
+Jalisco,Degollado,14033,NA,NA
+Jalisco,Ejutla,14034,NA,NA
+Jalisco,El Arenal,14009,NA,NA
+Jalisco,El Grullo,14037,NA,NA
+Jalisco,El Limón,14054,NA,NA
+Jalisco,El Salto,14070,NA,NA
+Jalisco,Encarnación de Díaz,14035,NA,NA
+Jalisco,Etzatlán,14036,NA,NA
+Jalisco,Gómez Farías,14079,NA,NA
+Jalisco,Guachinango,14038,NA,NA
+Jalisco,Guadalajara,14039,NA,NA
+Jalisco,Hostotipaquillo,14040,NA,NA
+Jalisco,Huejúcar,14041,NA,NA
+Jalisco,Huejuquilla el Alto,14042,NA,NA
+Jalisco,Ixtlahuacán de los Membrillos,14044,NA,NA
+Jalisco,Ixtlahuacán del Río,14045,NA,NA
+Jalisco,Jalostotitlán,14046,NA,NA
+Jalisco,Jamay,14047,NA,NA
+Jalisco,Jesús María,14048,NA,NA
+Jalisco,Jilotlán de los Dolores,14049,NA,NA
+Jalisco,Jocotepec,14050,NA,NA
+Jalisco,Juanacatlán,14051,NA,NA
+Jalisco,Juchitlán,14052,NA,NA
+Jalisco,La Barca,14018,NA,NA
+Jalisco,La Huerta,14043,NA,NA
+Jalisco,La Manzanilla de la Paz,14057,NA,NA
+Jalisco,Lagos de Moreno,14053,NA,NA
+Jalisco,Magdalena,14055,NA,NA
+Jalisco,Mascota,14058,NA,NA
+Jalisco,Mazamitla,14059,NA,NA
+Jalisco,Mexticacán,14060,NA,NA
+Jalisco,Mezquitic,14061,NA,NA
+Jalisco,Mixtlán,14062,NA,NA
+Jalisco,Ocotlán,14063,NA,NA
+Jalisco,Ojuelos de Jalisco,14064,NA,NA
+Jalisco,Pihuamo,14065,NA,NA
+Jalisco,Poncitlán,14066,NA,NA
+Jalisco,Puerto Vallarta,14067,NA,NA
+Jalisco,Quitupan,14069,NA,NA
+Jalisco,San Cristóbal de la Barranca,14071,NA,NA
+Jalisco,San Diego de Alejandría,14072,NA,NA
+Jalisco,San Gabriel,14113,NA,NA
+Jalisco,San Ignacio Cerro Gordo,14125,NA,NA
+Jalisco,San Juan de los Lagos,14073,NA,NA
+Jalisco,San Juanito de Escobedo,14007,NA,NA
+Jalisco,San Julián,14074,NA,NA
+Jalisco,San Marcos,14075,NA,NA
+Jalisco,San Martín de Bolaños,14076,NA,NA
+Jalisco,San Martín Hidalgo,14077,NA,NA
+Jalisco,San Miguel el Alto,14078,NA,NA
+Jalisco,San Sebastián del Oeste,14080,NA,NA
+Jalisco,Santa María de los Ángeles,14081,NA,NA
+Jalisco,Santa María del Oro,14056,NA,NA
+Jalisco,Sayula,14082,NA,NA
+Jalisco,Tala,14083,NA,NA
+Jalisco,Talpa de Allende,14084,NA,NA
+Jalisco,Tamazula de Gordiano,14085,NA,NA
+Jalisco,Tapalpa,14086,NA,NA
+Jalisco,Tecalitlán,14087,NA,NA
+Jalisco,Techaluta de Montenegro,14089,NA,NA
+Jalisco,Tecolotlán,14088,NA,NA
+Jalisco,Tenamaxtlán,14090,NA,NA
+Jalisco,Teocaltiche,14091,NA,NA
+Jalisco,Teocuitatlán de Corona,14092,NA,NA
+Jalisco,Tepatitlán de Morelos,14093,NA,NA
+Jalisco,Tequila,14094,NA,NA
+Jalisco,Teuchitlán,14095,NA,NA
+Jalisco,Tizapán el Alto,14096,NA,NA
+Jalisco,Tlajomulco de Zúñiga,14097,NA,NA
+Jalisco,Tlaquepaque,14098,San Pedro Tlaquepaque,NA
+Jalisco,Tolimán,14099,NA,NA
+Jalisco,Tomatlán,14100,NA,NA
+Jalisco,Tonalá,14101,NA,NA
+Jalisco,Tonaya,14102,NA,NA
+Jalisco,Tonila,14103,NA,NA
+Jalisco,Totatiche,14104,NA,NA
+Jalisco,Tototlán,14105,NA,NA
+Jalisco,Tuxcacuesco,14106,NA,NA
+Jalisco,Tuxcueca,14107,NA,NA
+Jalisco,Tuxpan,14108,NA,NA
+Jalisco,Unión de San Antonio,14109,NA,NA
+Jalisco,Unión de Tula,14110,NA,NA
+Jalisco,Valle de Guadalupe,14111,NA,NA
+Jalisco,Valle de Juárez,14112,NA,NA
+Jalisco,Villa Corona,14114,NA,NA
+Jalisco,Villa Guerrero,14115,NA,NA
+Jalisco,Villa Hidalgo,14116,NA,NA
+Jalisco,Villa Purificación,14068,NA,NA
+Jalisco,Yahualica de González Gallo,14118,NA,NA
+Jalisco,Zacoalco de Torres,14119,NA,NA
+Jalisco,Zapopan,14120,NA,NA
+Jalisco,Zapotiltic,14121,NA,NA
+Jalisco,Zapotitlán de Vadillo,14122,NA,NA
+Jalisco,Zapotlán del Rey,14123,NA,NA
+Jalisco,Zapotlán el Grande,14023,NA,NA
+Jalisco,Zapotlanejo,14124,NA,NA
+Michoacán,Acuitzio,16001,NA,Michoacán de Ocampo
+Michoacán,Aguililla,16002,NA,Michoacán de Ocampo
+Michoacán,Álvaro Obregón,16003,NA,Michoacán de Ocampo
+Michoacán,Angamacutiro,16004,NA,Michoacán de Ocampo
+Michoacán,Angangueo,16005,NA,Michoacán de Ocampo
+Michoacán,Apatzingán,16006,NA,Michoacán de Ocampo
+Michoacán,Aporo,16007,NA,Michoacán de Ocampo
+Michoacán,Aquila,16008,NA,Michoacán de Ocampo
+Michoacán,Ario,16009,NA,Michoacán de Ocampo
+Michoacán,Arteaga,16010,NA,Michoacán de Ocampo
+Michoacán,Briseñas,16011,NA,Michoacán de Ocampo
+Michoacán,Buenavista,16012,NA,Michoacán de Ocampo
+Michoacán,Carácuaro,16013,NA,Michoacán de Ocampo
+Michoacán,Charapan,16021,NA,Michoacán de Ocampo
+Michoacán,Charo,16022,NA,Michoacán de Ocampo
+Michoacán,Chavinda,16023,NA,Michoacán de Ocampo
+Michoacán,Cherán,16024,NA,Michoacán de Ocampo
+Michoacán,Chilchota,16025,NA,Michoacán de Ocampo
+Michoacán,Chinicuila,16026,NA,Michoacán de Ocampo
+Michoacán,Chucándiro,16027,NA,Michoacán de Ocampo
+Michoacán,Churintzio,16028,NA,Michoacán de Ocampo
+Michoacán,Churumuco,16029,NA,Michoacán de Ocampo
+Michoacán,Coahuayana,16014,NA,Michoacán de Ocampo
+Michoacán,Coalcomán de Vázquez Pallares,16015,NA,Michoacán de Ocampo
+Michoacán,Coeneo,16016,NA,Michoacán de Ocampo
+Michoacán,Cojumatlán de Régules,16074,NA,Michoacán de Ocampo
+Michoacán,Contepec,16017,NA,Michoacán de Ocampo
+Michoacán,Copándaro,16018,NA,Michoacán de Ocampo
+Michoacán,Cotija,16019,NA,Michoacán de Ocampo
+Michoacán,Cuitzeo,16020,NA,Michoacán de Ocampo
+Michoacán,Ecuandureo,16030,NA,Michoacán de Ocampo
+Michoacán,Epitacio Huerta,16031,NA,Michoacán de Ocampo
+Michoacán,Erongarícuaro,16032,NA,Michoacán de Ocampo
+Michoacán,Gabriel Zamora,16033,NA,Michoacán de Ocampo
+Michoacán,Hidalgo,16034,NA,Michoacán de Ocampo
+Michoacán,Huandacareo,16036,NA,Michoacán de Ocampo
+Michoacán,Huaniqueo,16037,NA,Michoacán de Ocampo
+Michoacán,Huetamo,16038,NA,Michoacán de Ocampo
+Michoacán,Huiramba,16039,NA,Michoacán de Ocampo
+Michoacán,Indaparapeo,16040,NA,Michoacán de Ocampo
+Michoacán,Irimbo,16041,NA,Michoacán de Ocampo
+Michoacán,Ixtlán,16042,NA,Michoacán de Ocampo
+Michoacán,Jacona,16043,NA,Michoacán de Ocampo
+Michoacán,Jiménez,16044,NA,Michoacán de Ocampo
+Michoacán,Jiquilpan,16045,NA,Michoacán de Ocampo
+Michoacán,José Sixto Verduzco,16113,NA,Michoacán de Ocampo
+Michoacán,Juárez,16046,NA,Michoacán de Ocampo
+Michoacán,Jungapeo,16047,NA,Michoacán de Ocampo
+Michoacán,La Huacana,16035,NA,Michoacán de Ocampo
+Michoacán,La Piedad,16069,NA,Michoacán de Ocampo
+Michoacán,Lagunillas,16048,NA,Michoacán de Ocampo
+Michoacán,Lázaro Cárdenas,16052,NA,Michoacán de Ocampo
+Michoacán,Los Reyes,16075,NA,Michoacán de Ocampo
+Michoacán,Madero,16049,NA,Michoacán de Ocampo
+Michoacán,Maravatío,16050,NA,Michoacán de Ocampo
+Michoacán,Marcos Castellanos,16051,NA,Michoacán de Ocampo
+Michoacán,Morelia,16053,NA,Michoacán de Ocampo
+Michoacán,Morelos,16054,NA,Michoacán de Ocampo
+Michoacán,Múgica,16055,NA,Michoacán de Ocampo
+Michoacán,Nahuatzen,16056,NA,Michoacán de Ocampo
+Michoacán,Nocupétaro,16057,NA,Michoacán de Ocampo
+Michoacán,Nuevo Parangaricutiro,16058,NA,Michoacán de Ocampo
+Michoacán,Nuevo Urecho,16059,NA,Michoacán de Ocampo
+Michoacán,Numarán,16060,NA,Michoacán de Ocampo
+Michoacán,Ocampo,16061,NA,Michoacán de Ocampo
+Michoacán,Pajacuarán,16062,NA,Michoacán de Ocampo
+Michoacán,Panindícuaro,16063,NA,Michoacán de Ocampo
+Michoacán,Paracho,16065,NA,Michoacán de Ocampo
+Michoacán,Parácuaro,16064,NA,Michoacán de Ocampo
+Michoacán,Pátzcuaro,16066,NA,Michoacán de Ocampo
+Michoacán,Penjamillo,16067,NA,Michoacán de Ocampo
+Michoacán,Peribán,16068,NA,Michoacán de Ocampo
+Michoacán,Purépero,16070,NA,Michoacán de Ocampo
+Michoacán,Puruándiro,16071,NA,Michoacán de Ocampo
+Michoacán,Queréndaro,16072,NA,Michoacán de Ocampo
+Michoacán,Quiroga,16073,NA,Michoacán de Ocampo
+Michoacán,Sahuayo,16076,NA,Michoacán de Ocampo
+Michoacán,Salvador Escalante,16079,NA,Michoacán de Ocampo
+Michoacán,San Lucas,16077,NA,Michoacán de Ocampo
+Michoacán,Santa Ana Maya,16078,NA,Michoacán de Ocampo
+Michoacán,Senguio,16080,NA,Michoacán de Ocampo
+Michoacán,Susupuato,16081,NA,Michoacán de Ocampo
+Michoacán,Tacámbaro,16082,NA,Michoacán de Ocampo
+Michoacán,Tancítaro,16083,NA,Michoacán de Ocampo
+Michoacán,Tangamandapio,16084,NA,Michoacán de Ocampo
+Michoacán,Tangancícuaro,16085,NA,Michoacán de Ocampo
+Michoacán,Tanhuato,16086,NA,Michoacán de Ocampo
+Michoacán,Taretan,16087,NA,Michoacán de Ocampo
+Michoacán,Tarímbaro,16088,NA,Michoacán de Ocampo
+Michoacán,Tepalcatepec,16089,NA,Michoacán de Ocampo
+Michoacán,Tingambato,16090,NA,Michoacán de Ocampo
+Michoacán,Tingüindín,16091,NA,Michoacán de Ocampo
+Michoacán,Tiquicheo de Nicolás Romero,16092,NA,Michoacán de Ocampo
+Michoacán,Tlalpujahua,16093,NA,Michoacán de Ocampo
+Michoacán,Tlazazalca,16094,NA,Michoacán de Ocampo
+Michoacán,Tocumbo,16095,NA,Michoacán de Ocampo
+Michoacán,Tumbiscatío,16096,NA,Michoacán de Ocampo
+Michoacán,Turicato,16097,NA,Michoacán de Ocampo
+Michoacán,Tuxpan,16098,NA,Michoacán de Ocampo
+Michoacán,Tuzantla,16099,NA,Michoacán de Ocampo
+Michoacán,Tzintzuntzan,16100,NA,Michoacán de Ocampo
+Michoacán,Tzitzio,16101,NA,Michoacán de Ocampo
+Michoacán,Uruapan,16102,NA,Michoacán de Ocampo
+Michoacán,Venustiano Carranza,16103,NA,Michoacán de Ocampo
+Michoacán,Villamar,16104,NA,Michoacán de Ocampo
+Michoacán,Vista Hermosa,16105,NA,Michoacán de Ocampo
+Michoacán,Yurécuaro,16106,NA,Michoacán de Ocampo
+Michoacán,Zacapu,16107,NA,Michoacán de Ocampo
+Michoacán,Zamora,16108,NA,Michoacán de Ocampo
+Michoacán,Zináparo,16109,NA,Michoacán de Ocampo
+Michoacán,Zinapécuaro,16110,NA,Michoacán de Ocampo
+Michoacán,Ziracuaretiro,16111,NA,Michoacán de Ocampo
+Michoacán,Zitácuaro,16112,NA,Michoacán de Ocampo
+Morelos,Amacuzac,17001,NA,NA
+Morelos,Atlatlahucan,17002,NA,NA
+Morelos,Axochiapan,17003,NA,NA
+Morelos,Ayala,17004,NA,NA
+Morelos,Coatlán del Río,17005,NA,NA
+Morelos,Cuautla,17006,NA,NA
+Morelos,Cuernavaca,17007,NA,NA
+Morelos,Emiliano Zapata,17008,NA,NA
+Morelos,Huitzilac,17009,NA,NA
+Morelos,Jantetelco,17010,NA,NA
+Morelos,Jiutepec,17011,NA,NA
+Morelos,Jojutla,17012,NA,NA
+Morelos,Jonacatepec,17013,Jonacatepec de Leandro Valle,NA
+Morelos,Mazatepec,17014,NA,NA
+Morelos,Miacatlán,17015,NA,NA
+Morelos,Ocuituco,17016,NA,NA
+Morelos,Puente de Ixtla,17017,NA,NA
+Morelos,Temixco,17018,NA,NA
+Morelos,Temoac,17033,NA,NA
+Morelos,Tepalcingo,17019,NA,NA
+Morelos,Tepoztlán,17020,NA,NA
+Morelos,Tetecala,17021,NA,NA
+Morelos,Tetela del Volcán,17022,NA,NA
+Morelos,Tlalnepantla,17023,NA,NA
+Morelos,Tlaltizapán,17024,Tlaltizapán de Zapata,NA
+Morelos,Tlaquiltenango,17025,NA,NA
+Morelos,Tlayacapan,17026,NA,NA
+Morelos,Totolapan,17027,NA,NA
+Morelos,Xochitepec,17028,NA,NA
+Morelos,Yautepec,17029,NA,NA
+Morelos,Yecapixtla,17030,NA,NA
+Morelos,Zacatepec,17031,NA,NA
+Morelos,Zacualpan,17032,Zacualpan de Amilpas,NA
+Nayarit,Acaponeta,18001,NA,NA
+Nayarit,Ahuacatlán,18002,NA,NA
+Nayarit,Amatlán de Cañas,18003,NA,NA
+Nayarit,Bahía de Banderas,18020,NA,NA
+Nayarit,Compostela,18004,NA,NA
+Nayarit,Del Nayar,18009,NA,NA
+Nayarit,Huajicori,18005,NA,NA
+Nayarit,Ixtlán del Río,18006,NA,NA
+Nayarit,Jala,18007,NA,NA
+Nayarit,La Yesca,18019,NA,NA
+Nayarit,Rosamorada,18010,NA,NA
+Nayarit,Ruíz,18011,NA,NA
+Nayarit,San Blas,18012,NA,NA
+Nayarit,San Pedro Lagunillas,18013,NA,NA
+Nayarit,Santa María del Oro,18014,NA,NA
+Nayarit,Santiago Ixcuintla,18015,NA,NA
+Nayarit,Tecuala,18016,NA,NA
+Nayarit,Tepic,18017,NA,NA
+Nayarit,Tuxpan,18018,NA,NA
+Nayarit,Xalisco,18008,NA,NA
+Nuevo León,Abasolo,19001,NA,NA
+Nuevo León,Agualeguas,19002,NA,NA
+Nuevo León,Allende,19004,NA,NA
+Nuevo León,Anáhuac,19005,NA,NA
+Nuevo León,Apodaca,19006,NA,NA
+Nuevo León,Aramberri,19007,NA,NA
+Nuevo León,Bustamante,19008,NA,NA
+Nuevo León,Cadereyta Jiménez,19009,NA,NA
+Nuevo León,Carmen,19010,El Carmen,NA
+Nuevo León,Cerralvo,19011,NA,NA
+Nuevo León,China,19013,NA,NA
+Nuevo León,Ciénega de Flores,19012,NA,NA
+Nuevo León,Dr. Arroyo,19014,Doctor Arroyo,NA
+Nuevo León,Dr. Coss,19015,Doctor Coss,NA
+Nuevo León,Dr. González,19016,Doctor González,NA
+Nuevo León,Galeana,19017,NA,NA
+Nuevo León,García,19018,NA,NA
+Nuevo León,Gral. Bravo,19020,General Bravo,NA
+Nuevo León,Gral. Escobedo,19021,General Escobedo,NA
+Nuevo León,Gral. Terán,19022,General Terán,NA
+Nuevo León,Gral. Treviño,19023,General Treviño,NA
+Nuevo León,Gral. Zaragoza,19024,General Zaragoza,NA
+Nuevo León,Gral. Zuazua,19025,General Zuazua,NA
+Nuevo León,Guadalupe,19026,NA,NA
+Nuevo León,Hidalgo,19047,NA,NA
+Nuevo León,Higueras,19028,NA,NA
+Nuevo León,Hualahuises,19029,NA,NA
+Nuevo León,Iturbide,19030,NA,NA
+Nuevo León,Juárez,19031,NA,NA
+Nuevo León,Lampazos de Naranjo,19032,NA,NA
+Nuevo León,Linares,19033,NA,NA
+Nuevo León,Los Aldamas,19003,NA,NA
+Nuevo León,Los Herreras,19027,NA,NA
+Nuevo León,Los Ramones,19042,NA,NA
+Nuevo León,Marín,19034,NA,NA
+Nuevo León,Melchor Ocampo,19035,NA,NA
+Nuevo León,Mier y Noriega,19036,NA,NA
+Nuevo León,Mina,19037,NA,NA
+Nuevo León,Montemorelos,19038,NA,NA
+Nuevo León,Monterrey,19039,NA,NA
+Nuevo León,Parás,19040,NA,NA
+Nuevo León,Pesquería,19041,NA,NA
+Nuevo León,Rayones,19043,NA,NA
+Nuevo León,Sabinas Hidalgo,19044,NA,NA
+Nuevo León,Salinas Victoria,19045,NA,NA
+Nuevo León,San Nicolás de los Garza,19046,NA,NA
+Nuevo León,San Pedro Garza García,19019,NA,NA
+Nuevo León,Santa Catarina,19048,NA,NA
+Nuevo León,Santiago,19049,NA,NA
+Nuevo León,Vallecillo,19050,NA,NA
+Nuevo León,Villaldama,19051,NA,NA
+Oaxaca,Abejones,20001,NA,NA
+Oaxaca,Acatlán de Pérez Figueroa,20002,NA,NA
+Oaxaca,Ánimas Trujano,20174,NA,NA
+Oaxaca,Asunción Cacalotepec,20003,NA,NA
+Oaxaca,Asunción Cuyotepeji,20004,NA,NA
+Oaxaca,Asunción Ixtaltepec,20005,NA,NA
+Oaxaca,Asunción Nochixtlán,20006,NA,NA
+Oaxaca,Asunción Ocotlán,20007,NA,NA
+Oaxaca,Asunción Tlacolulita,20008,NA,NA
+Oaxaca,Ayoquezco de Aldama,20398,NA,NA
+Oaxaca,Ayotzintepec,20009,NA,NA
+Oaxaca,Calihualá,20011,NA,NA
+Oaxaca,Candelaria Loxicha,20012,NA,NA
+Oaxaca,Capulálpam de Méndez,20247,NA,NA
+Oaxaca,Chahuites,20025,NA,NA
+Oaxaca,Chalcatongo de Hidalgo,20026,NA,NA
+Oaxaca,Chiquihuitlán de Benito Juárez,20027,NA,NA
+Oaxaca,Ciénega de Zimatlán,20013,NA,NA
+Oaxaca,Ciudad Ixtepec,20014,NA,NA
+Oaxaca,Coatecas Altas,20015,NA,NA
+Oaxaca,Coicoyán de las Flores,20016,NA,NA
+Oaxaca,Concepción Buenavista,20018,NA,NA
+Oaxaca,Concepción Pápalo,20019,NA,NA
+Oaxaca,Constancia del Rosario,20020,NA,NA
+Oaxaca,Cosolapa,20021,NA,NA
+Oaxaca,Cosoltepec,20022,NA,NA
+Oaxaca,Cuilápam de Guerrero,20023,NA,NA
+Oaxaca,Cuyamecalco Villa de Zaragoza,20024,NA,NA
+Oaxaca,El Barrio de la Soledad,20010,NA,NA
+Oaxaca,El Espinal,20030,NA,NA
+Oaxaca,Eloxochitlán de Flores Magón,20029,NA,NA
+Oaxaca,Fresnillo de Trujano,20032,NA,NA
+Oaxaca,Guadalupe de Ramírez,20034,NA,NA
+Oaxaca,Guadalupe Etla,20033,NA,NA
+Oaxaca,Guelatao de Juárez,20035,NA,NA
+Oaxaca,Guevea de Humboldt,20036,NA,NA
+Oaxaca,Heroica Ciudad de Ejutla de Crespo,20028,NA,NA
+Oaxaca,Heroica Ciudad de Huajuapan de León,20039,NA,NA
+Oaxaca,Heroica Ciudad de Tlaxiaco,20397,NA,NA
+Oaxaca,Huautepec,20040,NA,NA
+Oaxaca,Huautla de Jiménez,20041,NA,NA
+Oaxaca,Ixpantepec Nieves,20065,NA,NA
+Oaxaca,Ixtlán de Juárez,20042,NA,NA
+Oaxaca,Heroica Ciudad de Juchitán de Zaragoza,20043,NA,NA
+Oaxaca,La Compañía,20017,NA,NA
+Oaxaca,La Pe,20069,NA,NA
+Oaxaca,La Reforma,20076,NA,NA
+Oaxaca,La Trinidad Vista Hermosa,20556,NA,NA
+Oaxaca,Loma Bonita,20044,NA,NA
+Oaxaca,Magdalena Apasco,20045,NA,NA
+Oaxaca,Magdalena Jaltepec,20046,NA,NA
+Oaxaca,Magdalena Mixtepec,20048,NA,NA
+Oaxaca,Magdalena Ocotlán,20049,NA,NA
+Oaxaca,Magdalena Peñasco,20050,NA,NA
+Oaxaca,Magdalena Teitipac,20051,NA,NA
+Oaxaca,Magdalena Tequisistlán,20052,NA,NA
+Oaxaca,Magdalena Tlacotepec,20053,NA,NA
+Oaxaca,Magdalena Yodocono de Porfirio Díaz,20562,NA,NA
+Oaxaca,Magdalena Zahuatlán,20054,NA,NA
+Oaxaca,Mariscala de Juárez,20055,NA,NA
+Oaxaca,Mártires de Tacubaya,20056,NA,NA
+Oaxaca,Matías Romero Avendaño,20057,NA,NA
+Oaxaca,Mazatlán Villa de Flores,20058,NA,NA
+Oaxaca,Mesones Hidalgo,20037,NA,NA
+Oaxaca,Miahuatlán de Porfirio Díaz,20059,NA,NA
+Oaxaca,Mixistlán de la Reforma,20060,NA,NA
+Oaxaca,Monjas,20061,NA,NA
+Oaxaca,Natividad,20062,NA,NA
+Oaxaca,Nazareno Etla,20063,NA,NA
+Oaxaca,Nejapa de Madero,20064,NA,NA
+Oaxaca,Nuevo Zoquiápam,20504,NA,NA
+Oaxaca,Oaxaca de Juárez,20067,NA,NA
+Oaxaca,Ocotlán de Morelos,20068,NA,NA
+Oaxaca,Pinotepa de Don Luis,20070,NA,NA
+Oaxaca,Pluma Hidalgo,20071,NA,NA
+Oaxaca,Putla Villa de Guerrero,20073,NA,NA
+Oaxaca,Reforma de Pineda,20075,NA,NA
+Oaxaca,Reyes Etla,20077,NA,NA
+Oaxaca,Rojas de Cuauhtémoc,20078,NA,NA
+Oaxaca,Salina Cruz,20079,NA,NA
+Oaxaca,San Agustín Amatengo,20080,NA,NA
+Oaxaca,San Agustín Atenango,20081,NA,NA
+Oaxaca,San Agustín Chayuco,20082,NA,NA
+Oaxaca,San Agustín de las Juntas,20083,NA,NA
+Oaxaca,San Agustín Etla,20084,NA,NA
+Oaxaca,San Agustín Loxicha,20085,NA,NA
+Oaxaca,San Agustín Tlacotepec,20086,NA,NA
+Oaxaca,San Agustín Yatareni,20087,NA,NA
+Oaxaca,San Andrés Cabecera Nueva,20088,NA,NA
+Oaxaca,San Andrés Dinicuiti,20089,NA,NA
+Oaxaca,San Andrés Huaxpaltepec,20090,NA,NA
+Oaxaca,San Andrés Huayápam,20091,NA,NA
+Oaxaca,San Andrés Ixtlahuaca,20092,NA,NA
+Oaxaca,San Andrés Lagunas,20093,NA,NA
+Oaxaca,San Andrés Nuxiño,20094,NA,NA
+Oaxaca,San Andrés Paxtlán,20095,NA,NA
+Oaxaca,San Andrés Sinaxtla,20096,NA,NA
+Oaxaca,San Andrés Solaga,20097,NA,NA
+Oaxaca,San Andrés Teotilálpam,20098,NA,NA
+Oaxaca,San Andrés Tepetlapa,20099,NA,NA
+Oaxaca,San Andrés Yaá,20100,NA,NA
+Oaxaca,San Andrés Zabache,20101,NA,NA
+Oaxaca,San Andrés Zautla,20102,NA,NA
+Oaxaca,San Antonino Castillo Velasco,20103,NA,NA
+Oaxaca,San Antonino el Alto,20104,NA,NA
+Oaxaca,San Antonino Monte Verde,20105,NA,NA
+Oaxaca,San Antonio Acutla,20106,NA,NA
+Oaxaca,San Antonio de la Cal,20107,NA,NA
+Oaxaca,San Antonio Huitepec,20108,NA,NA
+Oaxaca,San Antonio Nanahuatípam,20109,NA,NA
+Oaxaca,San Antonio Sinicahua,20110,NA,NA
+Oaxaca,San Antonio Tepetlapa,20111,NA,NA
+Oaxaca,San Baltazar Chichicápam,20112,NA,NA
+Oaxaca,San Baltazar Loxicha,20113,NA,NA
+Oaxaca,San Baltazar Yatzachi el Bajo,20114,NA,NA
+Oaxaca,San Bartolo Coyotepec,20115,NA,NA
+Oaxaca,San Bartolo Soyaltepec,20121,NA,NA
+Oaxaca,San Bartolo Yautepec,20122,NA,NA
+Oaxaca,San Bartolomé Ayautla,20116,NA,NA
+Oaxaca,San Bartolomé Loxicha,20117,NA,NA
+Oaxaca,San Bartolomé Quialana,20118,NA,NA
+Oaxaca,San Bartolomé Yucuañe,20119,NA,NA
+Oaxaca,San Bartolomé Zoogocho,20120,NA,NA
+Oaxaca,San Bernardo Mixtepec,20123,NA,NA
+Oaxaca,San Blas Atempa,20124,NA,NA
+Oaxaca,San Carlos Yautepec,20125,NA,NA
+Oaxaca,San Cristóbal Amatlán,20126,NA,NA
+Oaxaca,San Cristóbal Amoltepec,20127,NA,NA
+Oaxaca,San Cristóbal Lachirioag,20128,NA,NA
+Oaxaca,San Cristóbal Suchixtlahuaca,20129,NA,NA
+Oaxaca,San Dionisio del Mar,20130,NA,NA
+Oaxaca,San Dionisio Ocotepec,20131,NA,NA
+Oaxaca,San Dionisio Ocotlán,20132,NA,NA
+Oaxaca,San Esteban Atatlahuca,20133,NA,NA
+Oaxaca,San Felipe Jalapa de Díaz,20134,NA,NA
+Oaxaca,San Felipe Tejalápam,20135,NA,NA
+Oaxaca,San Felipe Usila,20136,NA,NA
+Oaxaca,San Francisco Cahuacuá,20137,NA,NA
+Oaxaca,San Francisco Cajonos,20138,NA,NA
+Oaxaca,San Francisco Chapulapa,20139,NA,NA
+Oaxaca,San Francisco Chindúa,20140,NA,NA
+Oaxaca,San Francisco del Mar,20141,NA,NA
+Oaxaca,San Francisco Huehuetlán,20142,NA,NA
+Oaxaca,San Francisco Ixhuatán,20143,NA,NA
+Oaxaca,San Francisco Jaltepetongo,20144,NA,NA
+Oaxaca,San Francisco Lachigoló,20145,NA,NA
+Oaxaca,San Francisco Logueche,20146,NA,NA
+Oaxaca,San Francisco Nuxaño,20147,NA,NA
+Oaxaca,San Francisco Ozolotepec,20148,NA,NA
+Oaxaca,San Francisco Sola,20149,NA,NA
+Oaxaca,San Francisco Telixtlahuaca,20150,NA,NA
+Oaxaca,San Francisco Teopan,20151,NA,NA
+Oaxaca,San Francisco Tlapancingo,20152,NA,NA
+Oaxaca,San Gabriel Mixtepec,20153,NA,NA
+Oaxaca,San Ildefonso Amatlán,20154,NA,NA
+Oaxaca,San Ildefonso Sola,20155,NA,NA
+Oaxaca,San Ildefonso Villa Alta,20156,NA,NA
+Oaxaca,San Jacinto Amilpas,20157,NA,NA
+Oaxaca,San Jacinto Tlacotepec,20158,NA,NA
+Oaxaca,San Jerónimo Coatlán,20159,NA,NA
+Oaxaca,San Jerónimo Silacayoapilla,20160,NA,NA
+Oaxaca,San Jerónimo Sosola,20161,NA,NA
+Oaxaca,San Jerónimo Taviche,20162,NA,NA
+Oaxaca,San Jerónimo Tecóatl,20163,NA,NA
+Oaxaca,San Jerónimo Tlacochahuaya,20550,NA,NA
+Oaxaca,San Jorge Nuchita,20164,NA,NA
+Oaxaca,San José Ayuquila,20165,NA,NA
+Oaxaca,San José Chiltepec,20166,NA,NA
+Oaxaca,San José del Peñasco,20167,NA,NA
+Oaxaca,San José del Progreso,20072,NA,NA
+Oaxaca,San José Estancia Grande,20168,NA,NA
+Oaxaca,San José Independencia,20169,NA,NA
+Oaxaca,San José Lachiguiri,20170,NA,NA
+Oaxaca,San José Tenango,20171,NA,NA
+Oaxaca,San Juan Achiutla,20172,NA,NA
+Oaxaca,San Juan Atepec,20173,NA,NA
+Oaxaca,San Juan Bautista Atatlahuca,20175,NA,NA
+Oaxaca,San Juan Bautista Coixtlahuaca,20176,NA,NA
+Oaxaca,San Juan Bautista Cuicatlán,20177,NA,NA
+Oaxaca,San Juan Bautista Guelache,20178,NA,NA
+Oaxaca,San Juan Bautista Jayacatlán,20179,NA,NA
+Oaxaca,San Juan Bautista Lo de Soto,20180,NA,NA
+Oaxaca,San Juan Bautista Suchitepec,20181,NA,NA
+Oaxaca,San Juan Bautista Tlachichilco,20183,NA,NA
+Oaxaca,San Juan Bautista Tlacoatzintepec,20182,NA,NA
+Oaxaca,San Juan Bautista Tuxtepec,20184,NA,NA
+Oaxaca,San Juan Bautista Valle Nacional,20559,NA,NA
+Oaxaca,San Juan Cacahuatepec,20185,NA,NA
+Oaxaca,San Juan Chicomezúchil,20191,NA,NA
+Oaxaca,San Juan Chilateca,20192,NA,NA
+Oaxaca,San Juan Cieneguilla,20186,NA,NA
+Oaxaca,San Juan Coatzóspam,20187,NA,NA
+Oaxaca,San Juan Colorado,20188,NA,NA
+Oaxaca,San Juan Comaltepec,20189,NA,NA
+Oaxaca,San Juan Cotzocón,20190,NA,NA
+Oaxaca,San Juan de los Cués,20206,NA,NA
+Oaxaca,San Juan del Estado,20193,NA,NA
+Oaxaca,San Juan del Río,20194,NA,NA
+Oaxaca,San Juan Diuxi,20195,NA,NA
+Oaxaca,San Juan Evangelista Analco,20196,NA,NA
+Oaxaca,San Juan Guelavía,20197,NA,NA
+Oaxaca,San Juan Guichicovi,20198,NA,NA
+Oaxaca,San Juan Ihualtepec,20199,NA,NA
+Oaxaca,San Juan Juquila Mixes,20200,NA,NA
+Oaxaca,San Juan Juquila Vijanos,20201,NA,NA
+Oaxaca,San Juan Lachao,20202,NA,NA
+Oaxaca,San Juan Lachigalla,20203,NA,NA
+Oaxaca,San Juan Lajarcia,20204,NA,NA
+Oaxaca,San Juan Lalana,20205,NA,NA
+Oaxaca,San Juan Mazatlán,20207,NA,NA
+Oaxaca,San Juan Mixtepec - Distr. 08 -,20208,San Juan Mixtepec,NA
+Oaxaca,San Juan Mixtepec - Distr. 26 -,20209,San Juan Mixtepec,NA
+Oaxaca,San Juan Ñumí,20210,NA,NA
+Oaxaca,San Juan Ozolotepec,20211,NA,NA
+Oaxaca,San Juan Petlapa,20212,NA,NA
+Oaxaca,San Juan Quiahije,20213,NA,NA
+Oaxaca,San Juan Quiotepec,20214,NA,NA
+Oaxaca,San Juan Sayultepec,20215,NA,NA
+Oaxaca,San Juan Tabaá,20216,NA,NA
+Oaxaca,San Juan Tamazola,20217,NA,NA
+Oaxaca,San Juan Teita,20218,NA,NA
+Oaxaca,San Juan Teitipac,20219,NA,NA
+Oaxaca,San Juan Tepeuxila,20220,NA,NA
+Oaxaca,San Juan Teposcolula,20221,NA,NA
+Oaxaca,San Juan Yaeé,20222,NA,NA
+Oaxaca,San Juan Yatzona,20223,NA,NA
+Oaxaca,San Juan Yucuita,20224,NA,NA
+Oaxaca,San Lorenzo,20225,NA,NA
+Oaxaca,San Lorenzo Albarradas,20226,NA,NA
+Oaxaca,San Lorenzo Cacaotepec,20227,NA,NA
+Oaxaca,San Lorenzo Cuaunecuiltitla,20228,NA,NA
+Oaxaca,San Lorenzo Texmelucan,20229,San Lorenzo Texmelúcan,NA
+Oaxaca,San Lorenzo Victoria,20230,NA,NA
+Oaxaca,San Lucas Camotlán,20231,NA,NA
+Oaxaca,San Lucas Ojitlán,20232,NA,NA
+Oaxaca,San Lucas Quiaviní,20233,NA,NA
+Oaxaca,San Lucas Zoquiápam,20234,NA,NA
+Oaxaca,San Luis Amatlán,20235,NA,NA
+Oaxaca,San Marcial Ozolotepec,20236,NA,NA
+Oaxaca,San Marcos Arteaga,20237,NA,NA
+Oaxaca,San Martín de los Cansecos,20238,NA,NA
+Oaxaca,San Martín Huamelúlpam,20239,NA,NA
+Oaxaca,San Martín Itunyoso,20240,NA,NA
+Oaxaca,San Martín Lachilá,20241,NA,NA
+Oaxaca,San Martín Peras,20242,NA,NA
+Oaxaca,San Martín Tilcajete,20243,NA,NA
+Oaxaca,San Martín Toxpalan,20244,NA,NA
+Oaxaca,San Martín Zacatepec,20245,NA,NA
+Oaxaca,San Mateo Cajonos,20246,NA,NA
+Oaxaca,San Mateo del Mar,20248,NA,NA
+Oaxaca,San Mateo Etlatongo,20250,NA,NA
+Oaxaca,San Mateo Nejápam,20251,NA,NA
+Oaxaca,San Mateo Peñasco,20252,NA,NA
+Oaxaca,San Mateo Piñas,20253,NA,NA
+Oaxaca,San Mateo Río Hondo,20254,NA,NA
+Oaxaca,San Mateo Sindihui,20255,NA,NA
+Oaxaca,San Mateo Tlapiltepec,20256,NA,NA
+Oaxaca,San Mateo Yoloxochitlán,20249,NA,NA
+Oaxaca,San Melchor Betaza,20257,NA,NA
+Oaxaca,San Miguel Achiutla,20258,NA,NA
+Oaxaca,San Miguel Ahuehuetitlán,20259,NA,NA
+Oaxaca,San Miguel Aloápam,20260,NA,NA
+Oaxaca,San Miguel Amatitlán,20261,NA,NA
+Oaxaca,San Miguel Amatlán,20262,NA,NA
+Oaxaca,San Miguel Chicahua,20264,NA,NA
+Oaxaca,San Miguel Chimalapa,20265,NA,NA
+Oaxaca,San Miguel Coatlán,20263,NA,NA
+Oaxaca,San Miguel del Puerto,20266,NA,NA
+Oaxaca,San Miguel del Río,20267,NA,NA
+Oaxaca,San Miguel Ejutla,20268,NA,NA
+Oaxaca,San Miguel el Grande,20269,NA,NA
+Oaxaca,San Miguel Huautla,20270,NA,NA
+Oaxaca,San Miguel Mixtepec,20271,NA,NA
+Oaxaca,San Miguel Panixtlahuaca,20272,NA,NA
+Oaxaca,San Miguel Peras,20273,NA,NA
+Oaxaca,San Miguel Piedras,20274,NA,NA
+Oaxaca,San Miguel Quetzaltepec,20275,NA,NA
+Oaxaca,San Miguel Santa Flor,20276,NA,NA
+Oaxaca,San Miguel Soyaltepec,20278,NA,NA
+Oaxaca,San Miguel Suchixtepec,20279,NA,NA
+Oaxaca,San Miguel Tecomatlán,20281,NA,NA
+Oaxaca,San Miguel Tenango,20282,NA,NA
+Oaxaca,San Miguel Tequixtepec,20283,NA,NA
+Oaxaca,San Miguel Tilquiápam,20284,NA,NA
+Oaxaca,San Miguel Tlacamama,20285,NA,NA
+Oaxaca,San Miguel Tlacotepec,20286,NA,NA
+Oaxaca,San Miguel Tulancingo,20287,NA,NA
+Oaxaca,San Miguel Yotao,20288,NA,NA
+Oaxaca,San Nicolás,20289,NA,NA
+Oaxaca,San Nicolás Hidalgo,20290,NA,NA
+Oaxaca,San Pablo Coatlán,20291,NA,NA
+Oaxaca,San Pablo Cuatro Venados,20292,NA,NA
+Oaxaca,San Pablo Etla,20293,NA,NA
+Oaxaca,San Pablo Huitzo,20294,NA,NA
+Oaxaca,San Pablo Huixtepec,20295,NA,NA
+Oaxaca,San Pablo Macuiltianguis,20296,NA,NA
+Oaxaca,San Pablo Tijaltepec,20297,NA,NA
+Oaxaca,San Pablo Villa de Mitla,20298,NA,NA
+Oaxaca,San Pablo Yaganiza,20299,NA,NA
+Oaxaca,San Pedro Amuzgos,20300,NA,NA
+Oaxaca,San Pedro Apóstol,20301,NA,NA
+Oaxaca,San Pedro Atoyac,20302,NA,NA
+Oaxaca,San Pedro Cajonos,20303,NA,NA
+Oaxaca,San Pedro Comitancillo,20305,NA,NA
+Oaxaca,San Pedro Coxcaltepec Cántaros,20304,NA,NA
+Oaxaca,San Pedro el Alto,20306,NA,NA
+Oaxaca,San Pedro Huamelula,20307,NA,NA
+Oaxaca,San Pedro Huilotepec,20308,NA,NA
+Oaxaca,San Pedro Ixcatlán,20309,NA,NA
+Oaxaca,San Pedro Ixtlahuaca,20310,NA,NA
+Oaxaca,San Pedro Jaltepetongo,20311,NA,NA
+Oaxaca,San Pedro Jicayán,20312,NA,NA
+Oaxaca,San Pedro Jocotipac,20313,NA,NA
+Oaxaca,San Pedro Juchatengo,20314,NA,NA
+Oaxaca,San Pedro Mártir,20315,NA,NA
+Oaxaca,San Pedro Mártir Quiechapa,20316,NA,NA
+Oaxaca,San Pedro Mártir Yucuxaco,20317,NA,NA
+Oaxaca,San Pedro Mixtepec - Distr. 22 -,20318,San Pedro Mixtepec,NA
+Oaxaca,San Pedro Mixtepec - Distr. 26 -,20319,San Pedro Mixtepec,NA
+Oaxaca,San Pedro Molinos,20320,NA,NA
+Oaxaca,San Pedro Nopala,20321,NA,NA
+Oaxaca,San Pedro Ocopetatillo,20322,NA,NA
+Oaxaca,San Pedro Ocotepec,20323,NA,NA
+Oaxaca,San Pedro Pochutla,20324,NA,NA
+Oaxaca,San Pedro Quiatoni,20325,NA,NA
+Oaxaca,San Pedro Sochiápam,20326,NA,NA
+Oaxaca,San Pedro Tapanatepec,20327,NA,NA
+Oaxaca,San Pedro Taviche,20328,NA,NA
+Oaxaca,San Pedro Teozacoalco,20329,NA,NA
+Oaxaca,San Pedro Teutila,20330,NA,NA
+Oaxaca,San Pedro Tidaá,20331,NA,NA
+Oaxaca,San Pedro Topiltepec,20332,NA,NA
+Oaxaca,San Pedro Totolápam,20333,NA,NA
+Oaxaca,San Pedro y San Pablo Ayutla,20337,NA,NA
+Oaxaca,San Pedro y San Pablo Teposcolula,20339,NA,NA
+Oaxaca,San Pedro y San Pablo Tequixtepec,20340,NA,NA
+Oaxaca,San Pedro Yaneri,20335,NA,NA
+Oaxaca,San Pedro Yólox,20336,NA,NA
+Oaxaca,San Pedro Yucunama,20341,NA,NA
+Oaxaca,San Raymundo Jalpan,20342,NA,NA
+Oaxaca,San Sebastián Abasolo,20343,NA,NA
+Oaxaca,San Sebastián Coatlán,20344,NA,NA
+Oaxaca,San Sebastián Ixcapa,20345,NA,NA
+Oaxaca,San Sebastián Nicananduta,20346,NA,NA
+Oaxaca,San Sebastián Río Hondo,20347,NA,NA
+Oaxaca,San Sebastián Tecomaxtlahuaca,20348,NA,NA
+Oaxaca,San Sebastián Teitipac,20349,NA,NA
+Oaxaca,San Sebastián Tutla,20350,NA,NA
+Oaxaca,San Simón Almolongas,20351,NA,NA
+Oaxaca,San Simón Zahuatlán,20352,NA,NA
+Oaxaca,San Vicente Coatlán,20534,NA,NA
+Oaxaca,San Vicente Lachixío,20535,NA,NA
+Oaxaca,San Vicente Nuñú,20536,NA,NA
+Oaxaca,Santa Ana,20353,NA,NA
+Oaxaca,Santa Ana Ateixtlahuaca,20354,NA,NA
+Oaxaca,Santa Ana Cuauhtémoc,20355,NA,NA
+Oaxaca,Santa Ana del Valle,20356,NA,NA
+Oaxaca,Santa Ana Tavela,20357,NA,NA
+Oaxaca,Santa Ana Tlapacoyan,20358,NA,NA
+Oaxaca,Santa Ana Yareni,20359,NA,NA
+Oaxaca,Santa Ana Zegache,20360,NA,NA
+Oaxaca,Santa Catalina Quierí,20361,NA,NA
+Oaxaca,Santa Catarina Cuixtla,20362,NA,NA
+Oaxaca,Santa Catarina Ixtepeji,20363,NA,NA
+Oaxaca,Santa Catarina Juquila,20364,NA,NA
+Oaxaca,Santa Catarina Lachatao,20365,NA,NA
+Oaxaca,Santa Catarina Loxicha,20366,NA,NA
+Oaxaca,Santa Catarina Mechoacán,20367,NA,NA
+Oaxaca,Santa Catarina Minas,20368,NA,NA
+Oaxaca,Santa Catarina Quiané,20369,NA,NA
+Oaxaca,Santa Catarina Quioquitani,20074,NA,NA
+Oaxaca,Santa Catarina Tayata,20370,NA,NA
+Oaxaca,Santa Catarina Ticuá,20371,NA,NA
+Oaxaca,Santa Catarina Yosonotú,20372,NA,NA
+Oaxaca,Santa Catarina Zapoquila,20373,NA,NA
+Oaxaca,Santa Cruz Acatepec,20374,NA,NA
+Oaxaca,Santa Cruz Amilpas,20375,NA,NA
+Oaxaca,Santa Cruz de Bravo,20376,NA,NA
+Oaxaca,Santa Cruz Itundujia,20377,NA,NA
+Oaxaca,Santa Cruz Mixtepec,20378,NA,NA
+Oaxaca,Santa Cruz Nundaco,20379,NA,NA
+Oaxaca,Santa Cruz Papalutla,20380,NA,NA
+Oaxaca,Santa Cruz Tacache de Mina,20381,NA,NA
+Oaxaca,Santa Cruz Tacahua,20382,NA,NA
+Oaxaca,Santa Cruz Tayata,20383,NA,NA
+Oaxaca,Santa Cruz Xitla,20384,NA,NA
+Oaxaca,Santa Cruz Xoxocotlán,20385,NA,NA
+Oaxaca,Santa Cruz Zenzontepec,20386,NA,NA
+Oaxaca,Santa Gertrudis,20387,NA,NA
+Oaxaca,Santa Inés de Zaragoza,20569,NA,NA
+Oaxaca,Santa Inés del Monte,20388,NA,NA
+Oaxaca,Santa Inés Yatzeche,20389,NA,NA
+Oaxaca,Santa Lucía del Camino,20390,NA,NA
+Oaxaca,Santa Lucía Miahuatlán,20391,NA,NA
+Oaxaca,Santa Lucía Monteverde,20392,NA,NA
+Oaxaca,Santa Lucía Ocotlán,20393,NA,NA
+Oaxaca,Santa Magdalena Jicotlán,20047,NA,NA
+Oaxaca,Santa María Alotepec,20394,NA,NA
+Oaxaca,Santa María Apazco,20395,NA,NA
+Oaxaca,Santa María Atzompa,20399,NA,NA
+Oaxaca,Santa María Camotlán,20400,NA,NA
+Oaxaca,Santa María Chachoápam,20404,NA,NA
+Oaxaca,Santa María Chilchotla,20406,NA,NA
+Oaxaca,Santa María Chimalapa,20407,NA,NA
+Oaxaca,Santa María Colotepec,20401,NA,NA
+Oaxaca,Santa María Cortijo,20402,NA,NA
+Oaxaca,Santa María Coyotepec,20403,NA,NA
+Oaxaca,Santa María del Rosario,20408,NA,NA
+Oaxaca,Santa María del Tule,20409,NA,NA
+Oaxaca,Santa María Ecatepec,20410,NA,NA
+Oaxaca,Santa María Guelacé,20411,NA,NA
+Oaxaca,Santa María Guienagati,20412,NA,NA
+Oaxaca,Santa María Huatulco,20413,NA,NA
+Oaxaca,Santa María Huazolotitlán,20414,NA,NA
+Oaxaca,Santa María Ipalapa,20415,NA,NA
+Oaxaca,Santa María Ixcatlán,20416,NA,NA
+Oaxaca,Santa María Jacatepec,20417,NA,NA
+Oaxaca,Santa María Jalapa del Marqués,20418,NA,NA
+Oaxaca,Santa María Jaltianguis,20419,NA,NA
+Oaxaca,Santa María la Asunción,20396,NA,NA
+Oaxaca,Santa María Lachixío,20420,NA,NA
+Oaxaca,Santa María Mixtequilla,20421,NA,NA
+Oaxaca,Santa María Nativitas,20422,NA,NA
+Oaxaca,Santa María Nduayaco,20423,NA,NA
+Oaxaca,Santa María Ozolotepec,20424,NA,NA
+Oaxaca,Santa María Pápalo,20425,NA,NA
+Oaxaca,Santa María Peñoles,20426,NA,NA
+Oaxaca,Santa María Petapa,20427,NA,NA
+Oaxaca,Santa María Quiegolani,20428,NA,NA
+Oaxaca,Santa María Sola,20429,NA,NA
+Oaxaca,Santa María Tataltepec,20430,NA,NA
+Oaxaca,Santa María Tecomavaca,20431,NA,NA
+Oaxaca,Santa María Temaxcalapa,20432,NA,NA
+Oaxaca,Santa María Temaxcaltepec,20433,NA,NA
+Oaxaca,Santa María Teopoxco,20434,NA,NA
+Oaxaca,Santa María Tepantlali,20435,NA,NA
+Oaxaca,Santa María Texcatitlán,20436,NA,NA
+Oaxaca,Santa María Tlahuitoltepec,20437,NA,NA
+Oaxaca,Santa María Tlalixtac,20438,NA,NA
+Oaxaca,Santa María Tonameca,20439,NA,NA
+Oaxaca,Santa María Totolapilla,20440,NA,NA
+Oaxaca,Santa María Xadani,20441,NA,NA
+Oaxaca,Santa María Yalina,20442,NA,NA
+Oaxaca,Santa María Yavesía,20443,NA,NA
+Oaxaca,Santa María Yolotepec,20444,NA,NA
+Oaxaca,Santa María Yosoyúa,20445,NA,NA
+Oaxaca,Santa María Yucuhiti,20446,NA,NA
+Oaxaca,Santa María Zacatepec,20447,NA,NA
+Oaxaca,Santa María Zaniza,20448,NA,NA
+Oaxaca,Santa María Zoquitlán,20449,NA,NA
+Oaxaca,Santiago Amoltepec,20450,NA,NA
+Oaxaca,Santiago Apoala,20451,NA,NA
+Oaxaca,Santiago Apóstol,20452,NA,NA
+Oaxaca,Santiago Astata,20453,NA,NA
+Oaxaca,Santiago Atitlán,20454,NA,NA
+Oaxaca,Santiago Ayuquililla,20455,NA,NA
+Oaxaca,Santiago Cacaloxtepec,20456,NA,NA
+Oaxaca,Santiago Camotlán,20457,NA,NA
+Oaxaca,Santiago Chazumba,20459,NA,NA
+Oaxaca,Santiago Choápam,20460,NA,NA
+Oaxaca,Santiago Comaltepec,20458,NA,NA
+Oaxaca,Santiago del Río,20461,NA,NA
+Oaxaca,Santiago Huajolotitlán,20462,NA,NA
+Oaxaca,Santiago Huauclilla,20463,NA,NA
+Oaxaca,Santiago Ihuitlán Plumas,20464,NA,NA
+Oaxaca,Santiago Ixcuintepec,20465,NA,NA
+Oaxaca,Santiago Ixtayutla,20466,NA,NA
+Oaxaca,Santiago Jamiltepec,20467,NA,NA
+Oaxaca,Santiago Jocotepec,20468,NA,NA
+Oaxaca,Santiago Juxtlahuaca,20469,NA,NA
+Oaxaca,Santiago Lachiguiri,20470,NA,NA
+Oaxaca,Santiago Lalopa,20471,NA,NA
+Oaxaca,Santiago Laollaga,20472,NA,NA
+Oaxaca,Santiago Laxopa,20473,NA,NA
+Oaxaca,Santiago Llano Grande,20474,NA,NA
+Oaxaca,Santiago Matatlán,20475,NA,NA
+Oaxaca,Santiago Miltepec,20476,NA,NA
+Oaxaca,Santiago Minas,20477,NA,NA
+Oaxaca,Santiago Nacaltepec,20478,NA,NA
+Oaxaca,Santiago Nejapilla,20479,NA,NA
+Oaxaca,Santiago Niltepec,20066,NA,NA
+Oaxaca,Santiago Nundiche,20480,NA,NA
+Oaxaca,Santiago Nuyoó,20481,NA,NA
+Oaxaca,Santiago Pinotepa Nacional,20482,NA,NA
+Oaxaca,Santiago Suchilquitongo,20483,NA,NA
+Oaxaca,Santiago Tamazola,20484,NA,NA
+Oaxaca,Santiago Tapextla,20485,NA,NA
+Oaxaca,Santiago Tenango,20487,NA,NA
+Oaxaca,Santiago Tepetlapa,20488,NA,NA
+Oaxaca,Santiago Tetepec,20489,NA,NA
+Oaxaca,Santiago Texcalcingo,20490,NA,NA
+Oaxaca,Santiago Textitlán,20491,NA,NA
+Oaxaca,Santiago Tilantongo,20492,NA,NA
+Oaxaca,Santiago Tillo,20493,NA,NA
+Oaxaca,Santiago Tlazoyaltepec,20494,NA,NA
+Oaxaca,Santiago Xanica,20495,NA,NA
+Oaxaca,Santiago Xiacuí,20496,NA,NA
+Oaxaca,Santiago Yaitepec,20497,NA,NA
+Oaxaca,Santiago Yaveo,20498,NA,NA
+Oaxaca,Santiago Yolomécatl,20499,NA,NA
+Oaxaca,Santiago Yosondúa,20500,NA,NA
+Oaxaca,Santiago Yucuyachi,20501,NA,NA
+Oaxaca,Santiago Zacatepec,20502,NA,NA
+Oaxaca,Santiago Zoochila,20503,NA,NA
+Oaxaca,Santo Domingo Albarradas,20506,NA,NA
+Oaxaca,Santo Domingo Armenta,20507,NA,NA
+Oaxaca,Santo Domingo Chihuitán,20508,NA,NA
+Oaxaca,Santo Domingo de Morelos,20509,NA,NA
+Oaxaca,Santo Domingo Ingenio,20505,NA,NA
+Oaxaca,Santo Domingo Ixcatlán,20510,NA,NA
+Oaxaca,Santo Domingo Nuxaá,20511,NA,NA
+Oaxaca,Santo Domingo Ozolotepec,20512,NA,NA
+Oaxaca,Santo Domingo Petapa,20513,NA,NA
+Oaxaca,Santo Domingo Roayaga,20514,NA,NA
+Oaxaca,Santo Domingo Tehuantepec,20515,NA,NA
+Oaxaca,Santo Domingo Teojomulco,20516,NA,NA
+Oaxaca,Santo Domingo Tepuxtepec,20517,NA,NA
+Oaxaca,Santo Domingo Tlatayápam,20518,NA,NA
+Oaxaca,Santo Domingo Tomaltepec,20519,NA,NA
+Oaxaca,Santo Domingo Tonalá,20520,NA,NA
+Oaxaca,Santo Domingo Tonaltepec,20521,NA,NA
+Oaxaca,Santo Domingo Xagacía,20522,NA,NA
+Oaxaca,Santo Domingo Yanhuitlán,20523,NA,NA
+Oaxaca,Santo Domingo Yodohino,20524,NA,NA
+Oaxaca,Santo Domingo Zanatepec,20525,NA,NA
+Oaxaca,Santo Tomás Jalieza,20530,NA,NA
+Oaxaca,Santo Tomás Mazaltepec,20531,NA,NA
+Oaxaca,Santo Tomás Ocotepec,20532,NA,NA
+Oaxaca,Santo Tomás Tamazulapan,20533,NA,NA
+Oaxaca,Santos Reyes Nopala,20526,NA,NA
+Oaxaca,Santos Reyes Pápalo,20527,NA,NA
+Oaxaca,Santos Reyes Tepejillo,20528,NA,NA
+Oaxaca,Santos Reyes Yucuná,20529,NA,NA
+Oaxaca,Silacayoápam,20537,NA,NA
+Oaxaca,Sitio de Xitlapehua,20538,NA,NA
+Oaxaca,Soledad Etla,20539,NA,NA
+Oaxaca,Tamazulápam del Espíritu Santo,20031,NA,NA
+Oaxaca,Tanetze de Zaragoza,20541,NA,NA
+Oaxaca,Taniche,20542,NA,NA
+Oaxaca,Tataltepec de Valdés,20543,NA,NA
+Oaxaca,Teococuilco de Marcos Pérez,20544,NA,NA
+Oaxaca,Teotitlán de Flores Magón,20545,NA,NA
+Oaxaca,Teotitlán del Valle,20546,NA,NA
+Oaxaca,Teotongo,20547,NA,NA
+Oaxaca,Tepelmeme Villa de Morelos,20548,NA,NA
+Oaxaca,Tezoatlán de Segura y Luna,20549,"Heroica Villa Tezoatlán de Segura y Luna, Cuna de la Independencia de Oaxaca",NA
+Oaxaca,Tlacolula de Matamoros,20551,NA,NA
+Oaxaca,Tlacotepec Plumas,20552,NA,NA
+Oaxaca,Tlalixtac de Cabrera,20553,NA,NA
+Oaxaca,Totontepec Villa de Morelos,20554,NA,NA
+Oaxaca,Trinidad Zaachila,20555,NA,NA
+Oaxaca,Unión Hidalgo,20557,NA,NA
+Oaxaca,Valerio Trujano,20558,NA,NA
+Oaxaca,Villa de Chilapa de Díaz,20405,NA,NA
+Oaxaca,Villa de Etla,20338,NA,NA
+Oaxaca,Villa de Tamazulápam del Progreso,20540,NA,NA
+Oaxaca,Villa de Tututepec de Melchor Ocampo,20334,Villa de Tututepec,NA
+Oaxaca,Villa de Zaachila,20565,NA,NA
+Oaxaca,Villa Díaz Ordaz,20560,NA,NA
+Oaxaca,Villa Hidalgo,20038,NA,NA
+Oaxaca,Villa Sola de Vega,20277,NA,NA
+Oaxaca,Villa Talea de Castro,20280,NA,NA
+Oaxaca,Villa Tejúpam de la Unión,20486,NA,NA
+Oaxaca,Yaxe,20561,NA,NA
+Oaxaca,Yogana,20563,NA,NA
+Oaxaca,Yutanduchi de Guerrero,20564,NA,NA
+Oaxaca,Zapotitlán del Río,20566,San Mateo Yucutindoo,NA
+Oaxaca,Zapotitlán Lagunas,20567,NA,NA
+Oaxaca,Zapotitlán Palmas,20568,NA,NA
+Oaxaca,Zimatlán de Álvarez,20570,NA,NA
+Puebla,Acajete,21001,NA,NA
+Puebla,Acateno,21002,NA,NA
+Puebla,Acatlán,21003,NA,NA
+Puebla,Acatzingo,21004,NA,NA
+Puebla,Acteopan,21005,NA,NA
+Puebla,Ahuacatlán,21006,NA,NA
+Puebla,Ahuatlán,21007,NA,NA
+Puebla,Ahuazotepec,21008,NA,NA
+Puebla,Ahuehuetitla,21009,NA,NA
+Puebla,Ajalpan,21010,NA,NA
+Puebla,Albino Zertuche,21011,NA,NA
+Puebla,Aljojuca,21012,NA,NA
+Puebla,Altepexi,21013,NA,NA
+Puebla,Amixtlán,21014,NA,NA
+Puebla,Amozoc,21015,NA,NA
+Puebla,Aquixtla,21016,NA,NA
+Puebla,Atempan,21017,NA,NA
+Puebla,Atexcal,21018,NA,NA
+Puebla,Atlequizayan,21080,NA,NA
+Puebla,Atlixco,21019,NA,NA
+Puebla,Atoyatempan,21020,NA,NA
+Puebla,Atzala,21021,NA,NA
+Puebla,Atzitzihuacán,21022,NA,NA
+Puebla,Atzitzintla,21023,NA,NA
+Puebla,Axutla,21024,NA,NA
+Puebla,Ayotoxco de Guerrero,21025,NA,NA
+Puebla,Calpan,21026,NA,NA
+Puebla,Caltepec,21027,NA,NA
+Puebla,Camocuautla,21028,NA,NA
+Puebla,Cañada Morelos,21099,NA,NA
+Puebla,Caxhuacan,21029,NA,NA
+Puebla,Chalchicomula de Sesma,21045,NA,NA
+Puebla,Chapulco,21046,NA,NA
+Puebla,Chiautla,21047,NA,NA
+Puebla,Chiautzingo,21048,NA,NA
+Puebla,Chichiquila,21050,NA,NA
+Puebla,Chiconcuautla,21049,NA,NA
+Puebla,Chigmecatitlán,21052,NA,NA
+Puebla,Chignahuapan,21053,NA,NA
+Puebla,Chignautla,21054,NA,NA
+Puebla,Chila,21055,NA,NA
+Puebla,Chila de la Sal,21056,NA,NA
+Puebla,Chilchotla,21058,NA,NA
+Puebla,Chinantla,21059,NA,NA
+Puebla,Chietla,21051,NA,NA
+Puebla,Coatepec,21030,NA,NA
+Puebla,Coatzingo,21031,NA,NA
+Puebla,Cohetzala,21032,NA,NA
+Puebla,Cohuecan,21033,NA,NA
+Puebla,Coronango,21034,NA,NA
+Puebla,Coxcatlán,21035,NA,NA
+Puebla,Coyomeapan,21036,NA,NA
+Puebla,Coyotepec,21037,NA,NA
+Puebla,Cuapiaxtla de Madero,21038,NA,NA
+Puebla,Cuautempan,21039,NA,NA
+Puebla,Cuautinchán,21040,NA,NA
+Puebla,Cuautlancingo,21041,NA,NA
+Puebla,Cuayuca de Andrade,21042,NA,NA
+Puebla,Cuetzalan del Progreso,21043,NA,NA
+Puebla,Cuyoaco,21044,NA,NA
+Puebla,Domingo Arenas,21060,NA,NA
+Puebla,Eloxochitlán,21061,NA,NA
+Puebla,Epatlán,21062,NA,NA
+Puebla,Esperanza,21063,NA,NA
+Puebla,Francisco Z. Mena,21064,NA,NA
+Puebla,General Felipe Ángeles,21065,NA,NA
+Puebla,Guadalupe,21066,NA,NA
+Puebla,Guadalupe Victoria,21067,NA,NA
+Puebla,Hermenegildo Galeana,21068,NA,NA
+Puebla,Huaquechula,21069,NA,NA
+Puebla,Huatlatlauca,21070,NA,NA
+Puebla,Huauchinango,21071,NA,NA
+Puebla,Huehuetla,21072,NA,NA
+Puebla,Huehuetlán el Chico,21073,NA,NA
+Puebla,Huehuetlán el Grande,21150,NA,NA
+Puebla,Huejotzingo,21074,NA,NA
+Puebla,Hueyapan,21075,NA,NA
+Puebla,Hueytamalco,21076,NA,NA
+Puebla,Hueytlalpan,21077,NA,NA
+Puebla,Huitzilan de Serdán,21078,NA,NA
+Puebla,Huitziltepec,21079,NA,NA
+Puebla,Ixcamilpa de Guerrero,21081,NA,NA
+Puebla,Ixcaquixtla,21082,NA,NA
+Puebla,Ixtacamaxtitlán,21083,NA,NA
+Puebla,Ixtepec,21084,NA,NA
+Puebla,Izúcar de Matamoros,21085,NA,NA
+Puebla,Jalpan,21086,NA,NA
+Puebla,Jolalpan,21087,NA,NA
+Puebla,Jonotla,21088,NA,NA
+Puebla,Jopala,21089,NA,NA
+Puebla,Juan C. Bonilla,21090,NA,NA
+Puebla,Juan Galindo,21091,NA,NA
+Puebla,Juan N. Méndez,21092,NA,NA
+Puebla,La Magdalena Tlatlauquitepec,21095,NA,NA
+Puebla,Lafragua,21093,NA,NA
+Puebla,Libres,21094,NA,NA
+Puebla,Los Reyes de Juárez,21118,NA,NA
+Puebla,Mazapiltepec de Juárez,21096,NA,NA
+Puebla,Mixtla,21097,NA,NA
+Puebla,Molcaxac,21098,NA,NA
+Puebla,Honey,21057,NA,NA
+Puebla,Naupan,21100,NA,NA
+Puebla,Nauzontla,21101,NA,NA
+Puebla,Nealtican,21102,NA,NA
+Puebla,Nicolás Bravo,21103,NA,NA
+Puebla,Nopalucan,21104,NA,NA
+Puebla,Ocotepec,21105,NA,NA
+Puebla,Ocoyucan,21106,NA,NA
+Puebla,Olintla,21107,NA,NA
+Puebla,Oriental,21108,NA,NA
+Puebla,Pahuatlán,21109,NA,NA
+Puebla,Palmar de Bravo,21110,NA,NA
+Puebla,Pantepec,21111,NA,NA
+Puebla,Petlalcingo,21112,NA,NA
+Puebla,Piaxtla,21113,NA,NA
+Puebla,Puebla,21114,NA,NA
+Puebla,Quecholac,21115,NA,NA
+Puebla,Quimixtlán,21116,NA,NA
+Puebla,Rafael Lara Grajales,21117,NA,NA
+Puebla,San Andrés Cholula,21119,NA,NA
+Puebla,San Antonio Cañada,21120,NA,NA
+Puebla,San Diego la Mesa Tochimiltzingo,21121,NA,NA
+Puebla,San Felipe Teotlalcingo,21122,NA,NA
+Puebla,San Felipe Tepatlán,21123,NA,NA
+Puebla,San Gabriel Chilac,21124,NA,NA
+Puebla,San Gregorio Atzompa,21125,NA,NA
+Puebla,San Jerónimo Tecuanipan,21126,NA,NA
+Puebla,San Jerónimo Xayacatlán,21127,NA,NA
+Puebla,San José Chiapa,21128,NA,NA
+Puebla,San José Miahuatlán,21129,NA,NA
+Puebla,San Juan Atenco,21130,NA,NA
+Puebla,San Juan Atzompa,21131,NA,NA
+Puebla,San Martín Texmelucan,21132,NA,NA
+Puebla,San Martín Totoltepec,21133,NA,NA
+Puebla,San Matías Tlalancaleca,21134,NA,NA
+Puebla,San Miguel Ixitlán,21135,NA,NA
+Puebla,San Miguel Xoxtla,21136,NA,NA
+Puebla,San Nicolás Buenos Aires,21137,NA,NA
+Puebla,San Nicolás de los Ranchos,21138,NA,NA
+Puebla,San Pablo Anicano,21139,NA,NA
+Puebla,San Pedro Cholula,21140,NA,NA
+Puebla,San Pedro Yeloixtlahuaca,21141,NA,NA
+Puebla,San Salvador el Seco,21142,NA,NA
+Puebla,San Salvador el Verde,21143,NA,NA
+Puebla,San Salvador Huixcolotla,21144,NA,NA
+Puebla,San Sebastián Tlacotepec,21145,NA,NA
+Puebla,Santa Catarina Tlaltempan,21146,NA,NA
+Puebla,Santa Inés Ahuatempan,21147,NA,NA
+Puebla,Santa Isabel Cholula,21148,NA,NA
+Puebla,Santiago Miahuatlán,21149,NA,NA
+Puebla,Santo Tomás Hueyotlipan,21151,NA,NA
+Puebla,Soltepec,21152,NA,NA
+Puebla,Tecali de Herrera,21153,NA,NA
+Puebla,Tecamachalco,21154,NA,NA
+Puebla,Tecomatlán,21155,NA,NA
+Puebla,Tehuacán,21156,NA,NA
+Puebla,Tehuitzingo,21157,NA,NA
+Puebla,Tenampulco,21158,NA,NA
+Puebla,Teopantlán,21159,NA,NA
+Puebla,Teotlalco,21160,NA,NA
+Puebla,Tepanco de López,21161,NA,NA
+Puebla,Tepango de Rodríguez,21162,NA,NA
+Puebla,Tepatlaxco de Hidalgo,21163,NA,NA
+Puebla,Tepeaca,21164,NA,NA
+Puebla,Tepemaxalco,21165,NA,NA
+Puebla,Tepeojuma,21166,NA,NA
+Puebla,Tepetzintla,21167,NA,NA
+Puebla,Tepexco,21168,NA,NA
+Puebla,Tepexi de Rodríguez,21169,NA,NA
+Puebla,Tepeyahualco,21170,NA,NA
+Puebla,Tepeyahualco de Cuauhtémoc,21171,NA,NA
+Puebla,Tetela de Ocampo,21172,NA,NA
+Puebla,Teteles de Avila Castillo,21173,NA,NA
+Puebla,Teziutlán,21174,NA,NA
+Puebla,Tianguismanalco,21175,NA,NA
+Puebla,Tilapa,21176,NA,NA
+Puebla,Tlachichuca,21179,NA,NA
+Puebla,Tlacotepec de Benito Juárez,21177,NA,NA
+Puebla,Tlacuilotepec,21178,NA,NA
+Puebla,Tlahuapan,21180,NA,NA
+Puebla,Tlaltenango,21181,NA,NA
+Puebla,Tlanepantla,21182,NA,NA
+Puebla,Tlaola,21183,NA,NA
+Puebla,Tlapacoya,21184,NA,NA
+Puebla,Tlapanalá,21185,NA,NA
+Puebla,Tlatlauquitepec,21186,NA,NA
+Puebla,Tlaxco,21187,NA,NA
+Puebla,Tochimilco,21188,NA,NA
+Puebla,Tochtepec,21189,NA,NA
+Puebla,Totoltepec de Guerrero,21190,NA,NA
+Puebla,Tulcingo,21191,NA,NA
+Puebla,Tuzamapan de Galeana,21192,NA,NA
+Puebla,Tzicatlacoyan,21193,NA,NA
+Puebla,Venustiano Carranza,21194,NA,NA
+Puebla,Vicente Guerrero,21195,NA,NA
+Puebla,Xayacatlán de Bravo,21196,NA,NA
+Puebla,Xicotepec,21197,NA,NA
+Puebla,Xicotlán,21198,NA,NA
+Puebla,Xiutetelco,21199,NA,NA
+Puebla,Xochiapulco,21200,NA,NA
+Puebla,Xochiltepec,21201,NA,NA
+Puebla,Xochitlán de Vicente Suárez,21202,NA,NA
+Puebla,Xochitlán Todos Santos,21203,NA,NA
+Puebla,Yaonáhuac,21204,NA,NA
+Puebla,Yehualtepec,21205,NA,NA
+Puebla,Zacapala,21206,NA,NA
+Puebla,Zacapoaxtla,21207,NA,NA
+Puebla,Zacatlán,21208,NA,NA
+Puebla,Zapotitlán,21209,NA,NA
+Puebla,Zapotitlán de Méndez,21210,NA,NA
+Puebla,Zaragoza,21211,NA,NA
+Puebla,Zautla,21212,NA,NA
+Puebla,Zihuateutla,21213,NA,NA
+Puebla,Zinacatepec,21214,NA,NA
+Puebla,Zongozotla,21215,NA,NA
+Puebla,Zoquiapan,21216,NA,NA
+Puebla,Zoquitlán,21217,NA,NA
+Querétaro,Amealco de Bonfil,22001,NA,NA
+Querétaro,Arroyo Seco,22003,NA,NA
+Querétaro,Cadereyta de Montes,22004,NA,NA
+Querétaro,Colón,22005,NA,NA
+Querétaro,Corregidora,22006,NA,NA
+Querétaro,El Marqués,22011,NA,NA
+Querétaro,Ezequiel Montes,22007,NA,NA
+Querétaro,Huimilpan,22008,NA,NA
+Querétaro,Jalpan de Serra,22009,NA,NA
+Querétaro,Landa de Matamoros,22010,NA,NA
+Querétaro,Pedro Escobedo,22012,NA,NA
+Querétaro,Peñamiller,22013,NA,NA
+Querétaro,Pinal de Amoles,22002,NA,NA
+Querétaro,Querétaro,22014,NA,NA
+Querétaro,San Joaquín,22015,NA,NA
+Querétaro,San Juan del Río,22016,NA,NA
+Querétaro,Tequisquiapan,22017,NA,NA
+Querétaro,Tolimán,22018,NA,NA
+Quintana Roo,Benito Juárez,23005,NA,NA
+Quintana Roo,Cozumel,23001,NA,NA
+Quintana Roo,Felipe Carrillo Puerto,23002,NA,NA
+Quintana Roo,Isla Mujeres,23003,NA,NA
+Quintana Roo,José María Morelos,23006,NA,NA
+Quintana Roo,Lázaro Cárdenas,23007,NA,NA
+Quintana Roo,Othón P. Blanco,23004,NA,NA
+Quintana Roo,Solidaridad,23008,NA,NA
+Quintana Roo,Tulum,23009,NA,NA
+San Luis Potosí,Ahualulco,24001,NA,NA
+San Luis Potosí,Alaquines,24002,NA,NA
+San Luis Potosí,Aquismón,24003,NA,NA
+San Luis Potosí,Armadillo de los Infante,24004,NA,NA
+San Luis Potosí,Axtla de Terrazas,24053,NA,NA
+San Luis Potosí,Cárdenas,24005,NA,NA
+San Luis Potosí,Catorce,24006,NA,NA
+San Luis Potosí,Cedral,24007,NA,NA
+San Luis Potosí,Cerritos,24008,NA,NA
+San Luis Potosí,Cerro de San Pedro,24009,NA,NA
+San Luis Potosí,Charcas,24015,NA,NA
+San Luis Potosí,Ciudad del Maíz,24010,NA,NA
+San Luis Potosí,Ciudad Fernández,24011,NA,NA
+San Luis Potosí,Ciudad Valles,24013,NA,NA
+San Luis Potosí,Coxcatlán,24014,NA,NA
+San Luis Potosí,Ebano,24016,NA,NA
+San Luis Potosí,El Naranjo,24058,NA,NA
+San Luis Potosí,Guadalcázar,24017,NA,NA
+San Luis Potosí,Huehuetlán,24018,NA,NA
+San Luis Potosí,Lagunillas,24019,NA,NA
+San Luis Potosí,Matehuala,24020,NA,NA
+San Luis Potosí,Matlapa,24057,NA,NA
+San Luis Potosí,Mexquitic de Carmona,24021,NA,NA
+San Luis Potosí,Moctezuma,24022,NA,NA
+San Luis Potosí,Rayón,24023,NA,NA
+San Luis Potosí,Rioverde,24024,NA,NA
+San Luis Potosí,Salinas,24025,NA,NA
+San Luis Potosí,San Antonio,24026,NA,NA
+San Luis Potosí,San Ciro de Acosta,24027,NA,NA
+San Luis Potosí,San Luis Potosí,24028,NA,NA
+San Luis Potosí,San Martín Chalchicuautla,24029,NA,NA
+San Luis Potosí,San Nicolás Tolentino,24030,NA,NA
+San Luis Potosí,San Vicente Tancuayalab,24034,NA,NA
+San Luis Potosí,Santa Catarina,24031,NA,NA
+San Luis Potosí,Santa María del Río,24032,NA,NA
+San Luis Potosí,Santo Domingo,24033,NA,NA
+San Luis Potosí,Soledad de Graciano Sánchez,24035,NA,NA
+San Luis Potosí,Tamasopo,24036,NA,NA
+San Luis Potosí,Tamazunchale,24037,NA,NA
+San Luis Potosí,Tampacán,24038,NA,NA
+San Luis Potosí,Tampamolón Corona,24039,NA,NA
+San Luis Potosí,Tamuín,24040,NA,NA
+San Luis Potosí,Tancanhuitz,24012,NA,NA
+San Luis Potosí,Tanlajás,24041,NA,NA
+San Luis Potosí,Tanquián de Escobedo,24042,NA,NA
+San Luis Potosí,Tierra Nueva,24043,NA,NA
+San Luis Potosí,Vanegas,24044,NA,NA
+San Luis Potosí,Venado,24045,NA,NA
+San Luis Potosí,Villa de Arista,24056,NA,NA
+San Luis Potosí,Villa de Arriaga,24046,NA,NA
+San Luis Potosí,Villa de Guadalupe,24047,NA,NA
+San Luis Potosí,Villa de la Paz,24048,NA,NA
+San Luis Potosí,Villa de Ramos,24049,NA,NA
+San Luis Potosí,Villa de Reyes,24050,NA,NA
+San Luis Potosí,Villa Hidalgo,24051,NA,NA
+San Luis Potosí,Villa Juárez,24052,NA,NA
+San Luis Potosí,Xilitla,24054,NA,NA
+San Luis Potosí,Zaragoza,24055,NA,NA
+Sinaloa,Ahome,25001,NA,NA
+Sinaloa,Angostura,25002,NA,NA
+Sinaloa,Badiraguato,25003,NA,NA
+Sinaloa,Choix,25007,NA,NA
+Sinaloa,Concordia,25004,NA,NA
+Sinaloa,Cosalá,25005,NA,NA
+Sinaloa,Culiacán,25006,NA,NA
+Sinaloa,El Fuerte,25010,NA,NA
+Sinaloa,Elota,25008,NA,NA
+Sinaloa,Escuinapa,25009,NA,NA
+Sinaloa,Guasave,25011,NA,NA
+Sinaloa,Mazatlán,25012,NA,NA
+Sinaloa,Mocorito,25013,NA,NA
+Sinaloa,Navolato,25018,NA,NA
+Sinaloa,Rosario,25014,NA,NA
+Sinaloa,Salvador Alvarado,25015,NA,NA
+Sinaloa,San Ignacio,25016,NA,NA
+Sinaloa,Sinaloa,25017,NA,NA
+Sonora,Aconchi,26001,NA,NA
+Sonora,Agua Prieta,26002,NA,NA
+Sonora,Alamos,26003,NA,NA
+Sonora,Altar,26004,NA,NA
+Sonora,Arivechi,26005,NA,NA
+Sonora,Arizpe,26006,NA,NA
+Sonora,Atil,26007,NA,NA
+Sonora,Bacadéhuachi,26008,NA,NA
+Sonora,Bacanora,26009,NA,NA
+Sonora,Bacerac,26010,NA,NA
+Sonora,Bacoachi,26011,NA,NA
+Sonora,Bácum,26012,NA,NA
+Sonora,Banámichi,26013,NA,NA
+Sonora,Baviácora,26014,NA,NA
+Sonora,Bavispe,26015,NA,NA
+Sonora,Benito Juárez,26071,NA,NA
+Sonora,Benjamín Hill,26016,NA,NA
+Sonora,Caborca,26017,NA,NA
+Sonora,Cajeme,26018,NA,NA
+Sonora,Cananea,26019,NA,NA
+Sonora,Carbó,26020,NA,NA
+Sonora,Cucurpe,26022,NA,NA
+Sonora,Cumpas,26023,NA,NA
+Sonora,Divisaderos,26024,NA,NA
+Sonora,Empalme,26025,NA,NA
+Sonora,Etchojoa,26026,NA,NA
+Sonora,Fronteras,26027,NA,NA
+Sonora,General Plutarco Elías Calles,26070,NA,NA
+Sonora,Granados,26028,NA,NA
+Sonora,Guaymas,26029,NA,NA
+Sonora,Hermosillo,26030,NA,NA
+Sonora,Huachinera,26031,NA,NA
+Sonora,Huásabas,26032,NA,NA
+Sonora,Huatabampo,26033,NA,NA
+Sonora,Huépac,26034,NA,NA
+Sonora,Imuris,26035,NA,NA
+Sonora,La Colorada,26021,NA,NA
+Sonora,Magdalena,26036,NA,NA
+Sonora,Mazatán,26037,NA,NA
+Sonora,Moctezuma,26038,NA,NA
+Sonora,Naco,26039,NA,NA
+Sonora,Nácori Chico,26040,NA,NA
+Sonora,Nacozari de García,26041,NA,NA
+Sonora,Navojoa,26042,NA,NA
+Sonora,Nogales,26043,NA,NA
+Sonora,Onavas,26044,NA,NA
+Sonora,Opodepe,26045,NA,NA
+Sonora,Oquitoa,26046,NA,NA
+Sonora,Pitiquito,26047,NA,NA
+Sonora,Puerto Peñasco,26048,NA,NA
+Sonora,Quiriego,26049,NA,NA
+Sonora,Rayón,26050,NA,NA
+Sonora,Rosario,26051,NA,NA
+Sonora,Sahuaripa,26052,NA,NA
+Sonora,San Felipe de Jesús,26053,NA,NA
+Sonora,San Ignacio Río Muerto,26072,NA,NA
+Sonora,San Javier,26054,NA,NA
+Sonora,San Luis Río Colorado,26055,NA,NA
+Sonora,San Miguel de Horcasitas,26056,NA,NA
+Sonora,San Pedro de la Cueva,26057,NA,NA
+Sonora,Santa Ana,26058,NA,NA
+Sonora,Santa Cruz,26059,NA,NA
+Sonora,Sáric,26060,NA,NA
+Sonora,Soyopa,26061,NA,NA
+Sonora,Suaqui Grande,26062,NA,NA
+Sonora,Tepache,26063,NA,NA
+Sonora,Trincheras,26064,NA,NA
+Sonora,Tubutama,26065,NA,NA
+Sonora,Ures,26066,NA,NA
+Sonora,Villa Hidalgo,26067,NA,NA
+Sonora,Villa Pesqueira,26068,NA,NA
+Sonora,Yécora,26069,NA,NA
+Tabasco,Balancán,27001,NA,NA
+Tabasco,Cárdenas,27002,NA,NA
+Tabasco,Centla,27003,NA,NA
+Tabasco,Centro,27004,NA,NA
+Tabasco,Comalcalco,27005,NA,NA
+Tabasco,Cunduacán,27006,NA,NA
+Tabasco,Emiliano Zapata,27007,NA,NA
+Tabasco,Huimanguillo,27008,NA,NA
+Tabasco,Jalapa,27009,NA,NA
+Tabasco,Jalpa de Méndez,27010,NA,NA
+Tabasco,Jonuta,27011,NA,NA
+Tabasco,Macuspana,27012,NA,NA
+Tabasco,Nacajuca,27013,NA,NA
+Tabasco,Paraíso,27014,NA,NA
+Tabasco,Tacotalpa,27015,NA,NA
+Tabasco,Teapa,27016,NA,NA
+Tabasco,Tenosique,27017,NA,NA
+Tamaulipas,Abasolo,28001,NA,NA
+Tamaulipas,Aldama,28002,NA,NA
+Tamaulipas,Altamira,28003,NA,NA
+Tamaulipas,Antiguo Morelos,28004,NA,NA
+Tamaulipas,Burgos,28005,NA,NA
+Tamaulipas,Bustamante,28006,NA,NA
+Tamaulipas,Camargo,28007,NA,NA
+Tamaulipas,Casas,28008,NA,NA
+Tamaulipas,Ciudad Madero,28009,NA,NA
+Tamaulipas,Cruillas,28010,NA,NA
+Tamaulipas,El Mante,28021,NA,NA
+Tamaulipas,Gómez Farías,28011,NA,NA
+Tamaulipas,González,28012,NA,NA
+Tamaulipas,Güémez,28013,NA,NA
+Tamaulipas,Guerrero,28014,NA,NA
+Tamaulipas,Gustavo Díaz Ordaz,28015,NA,NA
+Tamaulipas,Hidalgo,28016,NA,NA
+Tamaulipas,Jaumave,28017,NA,NA
+Tamaulipas,Jiménez,28018,NA,NA
+Tamaulipas,Llera,28019,NA,NA
+Tamaulipas,Mainero,28020,NA,NA
+Tamaulipas,Matamoros,28022,NA,NA
+Tamaulipas,Méndez,28023,NA,NA
+Tamaulipas,Mier,28024,NA,NA
+Tamaulipas,Miguel Alemán,28025,NA,NA
+Tamaulipas,Miquihuana,28026,NA,NA
+Tamaulipas,Nuevo Laredo,28027,NA,NA
+Tamaulipas,Nuevo Morelos,28028,NA,NA
+Tamaulipas,Ocampo,28029,NA,NA
+Tamaulipas,Padilla,28030,NA,NA
+Tamaulipas,Palmillas,28031,NA,NA
+Tamaulipas,Reynosa,28032,NA,NA
+Tamaulipas,Río Bravo,28033,NA,NA
+Tamaulipas,San Carlos,28034,NA,NA
+Tamaulipas,San Fernando,28035,NA,NA
+Tamaulipas,San Nicolás,28036,NA,NA
+Tamaulipas,Soto la Marina,28037,NA,NA
+Tamaulipas,Tampico,28038,NA,NA
+Tamaulipas,Tula,28039,NA,NA
+Tamaulipas,Valle Hermoso,28040,NA,NA
+Tamaulipas,Victoria,28041,NA,NA
+Tamaulipas,Villagrán,28042,NA,NA
+Tamaulipas,Xicoténcatl,28043,NA,NA
+Tlaxcala,Acuamanala de Miguel Hidalgo,29022,NA,NA
+Tlaxcala,Altzayanca,29004,Atltzayanca,NA
+Tlaxcala,Amaxac de Guerrero,29001,NA,NA
+Tlaxcala,Apetatitlán de Antonio Carvajal,29002,NA,NA
+Tlaxcala,Apizaco,29005,NA,NA
+Tlaxcala,Atlangatepec,29003,NA,NA
+Tlaxcala,Benito Juárez,29045,NA,NA
+Tlaxcala,Calpulalpan,29006,NA,NA
+Tlaxcala,Chiautempan,29010,NA,NA
+Tlaxcala,Contla de Juan Cuamatzi,29018,NA,NA
+Tlaxcala,Cuapiaxtla,29008,NA,NA
+Tlaxcala,Cuaxomulco,29009,NA,NA
+Tlaxcala,El Carmen Tequexquitla,29007,NA,NA
+Tlaxcala,Emiliano Zapata,29046,NA,NA
+Tlaxcala,Españita,29012,NA,NA
+Tlaxcala,Huamantla,29013,NA,NA
+Tlaxcala,Hueyotlipan,29014,NA,NA
+Tlaxcala,Ixtacuixtla de Mariano Matamoros,29015,NA,NA
+Tlaxcala,Ixtenco,29016,NA,NA
+Tlaxcala,La Magdalena Tlaltelulco,29048,NA,NA
+Tlaxcala,Lázaro Cárdenas,29047,NA,NA
+Tlaxcala,Mazatecochco de José María Morelos,29017,NA,NA
+Tlaxcala,Muñoz de Domingo Arenas,29011,NA,NA
+Tlaxcala,Nanacamilpa de Mariano Arista,29021,NA,NA
+Tlaxcala,Natívitas,29023,NA,NA
+Tlaxcala,Panotla,29024,NA,NA
+Tlaxcala,Papalotla de Xicohténcatl,29041,NA,NA
+Tlaxcala,San Damián Texóloc,29049,NA,NA
+Tlaxcala,San Francisco Tetlanohcan,29050,NA,NA
+Tlaxcala,San Jerónimo Zacualpan,29051,NA,NA
+Tlaxcala,San José Teacalco,29052,NA,NA
+Tlaxcala,San Juan Huactzinco,29053,NA,NA
+Tlaxcala,San Lorenzo Axocomanitla,29054,NA,NA
+Tlaxcala,San Lucas Tecopilco,29055,NA,NA
+Tlaxcala,San Pablo del Monte,29025,NA,NA
+Tlaxcala,Sanctórum de Lázaro Cárdenas,29020,NA,NA
+Tlaxcala,Santa Ana Nopalucan,29056,NA,NA
+Tlaxcala,Santa Apolonia Teacalco,29057,NA,NA
+Tlaxcala,Santa Catarina Ayometla,29058,NA,NA
+Tlaxcala,Santa Cruz Quilehtla,29059,NA,NA
+Tlaxcala,Santa Cruz Tlaxcala,29026,NA,NA
+Tlaxcala,Santa Isabel Xiloxoxtla,29060,NA,NA
+Tlaxcala,Tenancingo,29027,NA,NA
+Tlaxcala,Teolocholco,29028,NA,NA
+Tlaxcala,Tepetitla de Lardizábal,29019,NA,NA
+Tlaxcala,Tepeyanco,29029,NA,NA
+Tlaxcala,Terrenate,29030,NA,NA
+Tlaxcala,Tetla de la Solidaridad,29031,NA,NA
+Tlaxcala,Tetlatlahuca,29032,NA,NA
+Tlaxcala,Tlaxcala,29033,NA,NA
+Tlaxcala,Tlaxco,29034,NA,NA
+Tlaxcala,Tocatlán,29035,NA,NA
+Tlaxcala,Totolac,29036,NA,NA
+Tlaxcala,Tzompantepec,29038,NA,NA
+Tlaxcala,Xaloztoc,29039,NA,NA
+Tlaxcala,Xaltocan,29040,NA,NA
+Tlaxcala,Xicohtzinco,29042,NA,NA
+Tlaxcala,Yauhquemehcan,29043,NA,NA
+Tlaxcala,Zacatelco,29044,NA,NA
+Tlaxcala,Ziltlaltépec de Trinidad Sánchez Santos,29037,NA,NA
+Veracruz,Acajete,30001,NA,Veracruz de Ignacio de la Llave
+Veracruz,Acatlán,30002,NA,Veracruz de Ignacio de la Llave
+Veracruz,Acayucan,30003,NA,Veracruz de Ignacio de la Llave
+Veracruz,Actopan,30004,NA,Veracruz de Ignacio de la Llave
+Veracruz,Acula,30005,NA,Veracruz de Ignacio de la Llave
+Veracruz,Acultzingo,30006,NA,Veracruz de Ignacio de la Llave
+Veracruz,Agua Dulce,30204,NA,Veracruz de Ignacio de la Llave
+Veracruz,Alpatláhuac,30008,NA,Veracruz de Ignacio de la Llave
+Veracruz,Alto Lucero de Gutiérrez Barrios,30009,NA,Veracruz de Ignacio de la Llave
+Veracruz,Altotonga,30010,NA,Veracruz de Ignacio de la Llave
+Veracruz,Alvarado,30011,NA,Veracruz de Ignacio de la Llave
+Veracruz,Amatitlán,30012,NA,Veracruz de Ignacio de la Llave
+Veracruz,Amatlán de los Reyes,30014,NA,Veracruz de Ignacio de la Llave
+Veracruz,Angel R. Cabada,30015,NA,Veracruz de Ignacio de la Llave
+Veracruz,Apazapan,30017,NA,Veracruz de Ignacio de la Llave
+Veracruz,Aquila,30018,NA,Veracruz de Ignacio de la Llave
+Veracruz,Astacinga,30019,NA,Veracruz de Ignacio de la Llave
+Veracruz,Atlahuilco,30020,NA,Veracruz de Ignacio de la Llave
+Veracruz,Atoyac,30021,NA,Veracruz de Ignacio de la Llave
+Veracruz,Atzacan,30022,NA,Veracruz de Ignacio de la Llave
+Veracruz,Atzalan,30023,NA,Veracruz de Ignacio de la Llave
+Veracruz,Ayahualulco,30025,NA,Veracruz de Ignacio de la Llave
+Veracruz,Banderilla,30026,NA,Veracruz de Ignacio de la Llave
+Veracruz,Benito Juárez,30027,NA,Veracruz de Ignacio de la Llave
+Veracruz,Boca del Río,30028,NA,Veracruz de Ignacio de la Llave
+Veracruz,Calcahualco,30029,NA,Veracruz de Ignacio de la Llave
+Veracruz,Camarón de Tejeda,30007,NA,Veracruz de Ignacio de la Llave
+Veracruz,Camerino Z. Mendoza,30030,NA,Veracruz de Ignacio de la Llave
+Veracruz,Carlos A. Carrillo,30208,NA,Veracruz de Ignacio de la Llave
+Veracruz,Carrillo Puerto,30031,NA,Veracruz de Ignacio de la Llave
+Veracruz,Castillo de Teayo,30157,NA,Veracruz de Ignacio de la Llave
+Veracruz,Catemaco,30032,NA,Veracruz de Ignacio de la Llave
+Veracruz,Cazones de Herrera,30033,NA,Veracruz de Ignacio de la Llave
+Veracruz,Cerro Azul,30034,NA,Veracruz de Ignacio de la Llave
+Veracruz,Chacaltianguis,30054,NA,Veracruz de Ignacio de la Llave
+Veracruz,Chalma,30055,NA,Veracruz de Ignacio de la Llave
+Veracruz,Chiconamel,30056,NA,Veracruz de Ignacio de la Llave
+Veracruz,Chiconquiaco,30057,NA,Veracruz de Ignacio de la Llave
+Veracruz,Chicontepec,30058,NA,Veracruz de Ignacio de la Llave
+Veracruz,Chinameca,30059,NA,Veracruz de Ignacio de la Llave
+Veracruz,Chinampa de Gorostiza,30060,NA,Veracruz de Ignacio de la Llave
+Veracruz,Chocamán,30062,NA,Veracruz de Ignacio de la Llave
+Veracruz,Chontla,30063,NA,Veracruz de Ignacio de la Llave
+Veracruz,Chumatlán,30064,NA,Veracruz de Ignacio de la Llave
+Veracruz,Citlaltépetl,30035,NA,Veracruz de Ignacio de la Llave
+Veracruz,Coacoatzintla,30036,NA,Veracruz de Ignacio de la Llave
+Veracruz,Coahuitlán,30037,NA,Veracruz de Ignacio de la Llave
+Veracruz,Coatepec,30038,NA,Veracruz de Ignacio de la Llave
+Veracruz,Coatzacoalcos,30039,NA,Veracruz de Ignacio de la Llave
+Veracruz,Coatzintla,30040,NA,Veracruz de Ignacio de la Llave
+Veracruz,Coetzala,30041,NA,Veracruz de Ignacio de la Llave
+Veracruz,Colipa,30042,NA,Veracruz de Ignacio de la Llave
+Veracruz,Comapa,30043,NA,Veracruz de Ignacio de la Llave
+Veracruz,Córdoba,30044,NA,Veracruz de Ignacio de la Llave
+Veracruz,Cosamaloapan de Carpio,30045,NA,Veracruz de Ignacio de la Llave
+Veracruz,Cosautlán de Carvajal,30046,NA,Veracruz de Ignacio de la Llave
+Veracruz,Coscomatepec,30047,NA,Veracruz de Ignacio de la Llave
+Veracruz,Cosoleacaque,30048,NA,Veracruz de Ignacio de la Llave
+Veracruz,Cotaxtla,30049,NA,Veracruz de Ignacio de la Llave
+Veracruz,Coxquihui,30050,NA,Veracruz de Ignacio de la Llave
+Veracruz,Coyutla,30051,NA,Veracruz de Ignacio de la Llave
+Veracruz,Cuichapa,30052,NA,Veracruz de Ignacio de la Llave
+Veracruz,Cuitláhuac,30053,NA,Veracruz de Ignacio de la Llave
+Veracruz,El Higo,30205,NA,Veracruz de Ignacio de la Llave
+Veracruz,Emiliano Zapata,30065,NA,Veracruz de Ignacio de la Llave
+Veracruz,Espinal,30066,NA,Veracruz de Ignacio de la Llave
+Veracruz,Filomeno Mata,30067,NA,Veracruz de Ignacio de la Llave
+Veracruz,Fortín,30068,NA,Veracruz de Ignacio de la Llave
+Veracruz,Gutiérrez Zamora,30069,NA,Veracruz de Ignacio de la Llave
+Veracruz,Hidalgotitlán,30070,NA,Veracruz de Ignacio de la Llave
+Veracruz,Huatusco,30071,NA,Veracruz de Ignacio de la Llave
+Veracruz,Huayacocotla,30072,NA,Veracruz de Ignacio de la Llave
+Veracruz,Hueyapan de Ocampo,30073,NA,Veracruz de Ignacio de la Llave
+Veracruz,Huiloapan de Cuauhtémoc,30074,NA,Veracruz de Ignacio de la Llave
+Veracruz,Ignacio de la Llave,30075,NA,Veracruz de Ignacio de la Llave
+Veracruz,Ilamatlán,30076,NA,Veracruz de Ignacio de la Llave
+Veracruz,Isla,30077,NA,Veracruz de Ignacio de la Llave
+Veracruz,Ixcatepec,30078,NA,Veracruz de Ignacio de la Llave
+Veracruz,Ixhuacán de los Reyes,30079,NA,Veracruz de Ignacio de la Llave
+Veracruz,Ixhuatlán de Madero,30083,NA,Veracruz de Ignacio de la Llave
+Veracruz,Ixhuatlán del Café,30080,NA,Veracruz de Ignacio de la Llave
+Veracruz,Ixhuatlán del Sureste,30082,NA,Veracruz de Ignacio de la Llave
+Veracruz,Ixhuatlancillo,30081,NA,Veracruz de Ignacio de la Llave
+Veracruz,Ixmatlahuacan,30084,NA,Veracruz de Ignacio de la Llave
+Veracruz,Ixtaczoquitlán,30085,NA,Veracruz de Ignacio de la Llave
+Veracruz,Jalacingo,30086,NA,Veracruz de Ignacio de la Llave
+Veracruz,Jalcomulco,30088,NA,Veracruz de Ignacio de la Llave
+Veracruz,Jáltipan,30089,NA,Veracruz de Ignacio de la Llave
+Veracruz,Jamapa,30090,NA,Veracruz de Ignacio de la Llave
+Veracruz,Jesús Carranza,30091,NA,Veracruz de Ignacio de la Llave
+Veracruz,Jilotepec,30093,NA,Veracruz de Ignacio de la Llave
+Veracruz,José Azueta,30169,NA,Veracruz de Ignacio de la Llave
+Veracruz,Juan Rodríguez Clara,30094,NA,Veracruz de Ignacio de la Llave
+Veracruz,Juchique de Ferrer,30095,NA,Veracruz de Ignacio de la Llave
+Veracruz,La Antigua,30016,NA,Veracruz de Ignacio de la Llave
+Veracruz,La Perla,30127,NA,Veracruz de Ignacio de la Llave
+Veracruz,Landero y Coss,30096,NA,Veracruz de Ignacio de la Llave
+Veracruz,Las Choapas,30061,NA,Veracruz de Ignacio de la Llave
+Veracruz,Las Minas,30107,NA,Veracruz de Ignacio de la Llave
+Veracruz,Las Vigas de Ramírez,30132,NA,Veracruz de Ignacio de la Llave
+Veracruz,Lerdo de Tejada,30097,NA,Veracruz de Ignacio de la Llave
+Veracruz,Los Reyes,30137,NA,Veracruz de Ignacio de la Llave
+Veracruz,Magdalena,30098,NA,Veracruz de Ignacio de la Llave
+Veracruz,Maltrata,30099,NA,Veracruz de Ignacio de la Llave
+Veracruz,Manlio Fabio Altamirano,30100,NA,Veracruz de Ignacio de la Llave
+Veracruz,Mariano Escobedo,30101,NA,Veracruz de Ignacio de la Llave
+Veracruz,Martínez de la Torre,30102,NA,Veracruz de Ignacio de la Llave
+Veracruz,Mecatlán,30103,NA,Veracruz de Ignacio de la Llave
+Veracruz,Mecayapan,30104,NA,Veracruz de Ignacio de la Llave
+Veracruz,Medellín,30105,Medellín de Bravo,Veracruz de Ignacio de la Llave
+Veracruz,Miahuatlán,30106,NA,Veracruz de Ignacio de la Llave
+Veracruz,Minatitlán,30108,NA,Veracruz de Ignacio de la Llave
+Veracruz,Misantla,30109,NA,Veracruz de Ignacio de la Llave
+Veracruz,Mixtla de Altamirano,30110,NA,Veracruz de Ignacio de la Llave
+Veracruz,Moloacán,30111,NA,Veracruz de Ignacio de la Llave
+Veracruz,Nanchital de Lázaro Cárdenas del Río,30206,NA,Veracruz de Ignacio de la Llave
+Veracruz,Naolinco,30112,NA,Veracruz de Ignacio de la Llave
+Veracruz,Naranjal,30113,NA,Veracruz de Ignacio de la Llave
+Veracruz,Naranjos Amatlán,30013,NA,Veracruz de Ignacio de la Llave
+Veracruz,Nautla,30114,NA,Veracruz de Ignacio de la Llave
+Veracruz,Nogales,30115,NA,Veracruz de Ignacio de la Llave
+Veracruz,Oluta,30116,NA,Veracruz de Ignacio de la Llave
+Veracruz,Omealca,30117,NA,Veracruz de Ignacio de la Llave
+Veracruz,Orizaba,30118,NA,Veracruz de Ignacio de la Llave
+Veracruz,Otatitlán,30119,NA,Veracruz de Ignacio de la Llave
+Veracruz,Oteapan,30120,NA,Veracruz de Ignacio de la Llave
+Veracruz,Ozuluama de Mascareñas,30121,NA,Veracruz de Ignacio de la Llave
+Veracruz,Pajapan,30122,NA,Veracruz de Ignacio de la Llave
+Veracruz,Pánuco,30123,NA,Veracruz de Ignacio de la Llave
+Veracruz,Papantla,30124,NA,Veracruz de Ignacio de la Llave
+Veracruz,Paso de Ovejas,30126,NA,Veracruz de Ignacio de la Llave
+Veracruz,Paso del Macho,30125,NA,Veracruz de Ignacio de la Llave
+Veracruz,Perote,30128,NA,Veracruz de Ignacio de la Llave
+Veracruz,Platón Sánchez,30129,NA,Veracruz de Ignacio de la Llave
+Veracruz,Playa Vicente,30130,NA,Veracruz de Ignacio de la Llave
+Veracruz,Poza Rica de Hidalgo,30131,NA,Veracruz de Ignacio de la Llave
+Veracruz,Pueblo Viejo,30133,NA,Veracruz de Ignacio de la Llave
+Veracruz,Puente Nacional,30134,NA,Veracruz de Ignacio de la Llave
+Veracruz,Rafael Delgado,30135,NA,Veracruz de Ignacio de la Llave
+Veracruz,Rafael Lucio,30136,NA,Veracruz de Ignacio de la Llave
+Veracruz,Río Blanco,30138,NA,Veracruz de Ignacio de la Llave
+Veracruz,Saltabarranca,30139,NA,Veracruz de Ignacio de la Llave
+Veracruz,San Andrés Tenejapan,30140,NA,Veracruz de Ignacio de la Llave
+Veracruz,San Andrés Tuxtla,30141,NA,Veracruz de Ignacio de la Llave
+Veracruz,San Juan Evangelista,30142,NA,Veracruz de Ignacio de la Llave
+Veracruz,San Rafael,30211,NA,Veracruz de Ignacio de la Llave
+Veracruz,Santiago Sochiapan,30212,NA,Veracruz de Ignacio de la Llave
+Veracruz,Santiago Tuxtla,30143,NA,Veracruz de Ignacio de la Llave
+Veracruz,Sayula de Alemán,30144,NA,Veracruz de Ignacio de la Llave
+Veracruz,Sochiapa,30146,NA,Veracruz de Ignacio de la Llave
+Veracruz,Soconusco,30145,NA,Veracruz de Ignacio de la Llave
+Veracruz,Soledad Atzompa,30147,NA,Veracruz de Ignacio de la Llave
+Veracruz,Soledad de Doblado,30148,NA,Veracruz de Ignacio de la Llave
+Veracruz,Soteapan,30149,NA,Veracruz de Ignacio de la Llave
+Veracruz,Tamalín,30150,NA,Veracruz de Ignacio de la Llave
+Veracruz,Tamiahua,30151,NA,Veracruz de Ignacio de la Llave
+Veracruz,Tampico Alto,30152,NA,Veracruz de Ignacio de la Llave
+Veracruz,Tancoco,30153,NA,Veracruz de Ignacio de la Llave
+Veracruz,Tantima,30154,NA,Veracruz de Ignacio de la Llave
+Veracruz,Tantoyuca,30155,NA,Veracruz de Ignacio de la Llave
+Veracruz,Tatahuicapan de Juárez,30209,NA,Veracruz de Ignacio de la Llave
+Veracruz,Tatatila,30156,NA,Veracruz de Ignacio de la Llave
+Veracruz,Tecolutla,30158,NA,Veracruz de Ignacio de la Llave
+Veracruz,Tehuipango,30159,NA,Veracruz de Ignacio de la Llave
+Veracruz,Álamo Temapache,30160,NA,Veracruz de Ignacio de la Llave
+Veracruz,Tempoal,30161,NA,Veracruz de Ignacio de la Llave
+Veracruz,Tenampa,30162,NA,Veracruz de Ignacio de la Llave
+Veracruz,Tenochtitlán,30163,NA,Veracruz de Ignacio de la Llave
+Veracruz,Teocelo,30164,NA,Veracruz de Ignacio de la Llave
+Veracruz,Tepatlaxco,30165,NA,Veracruz de Ignacio de la Llave
+Veracruz,Tepetlán,30166,NA,Veracruz de Ignacio de la Llave
+Veracruz,Tepetzintla,30167,NA,Veracruz de Ignacio de la Llave
+Veracruz,Tequila,30168,NA,Veracruz de Ignacio de la Llave
+Veracruz,Texcatepec,30170,NA,Veracruz de Ignacio de la Llave
+Veracruz,Texhuacán,30171,NA,Veracruz de Ignacio de la Llave
+Veracruz,Texistepec,30172,NA,Veracruz de Ignacio de la Llave
+Veracruz,Tezonapa,30173,NA,Veracruz de Ignacio de la Llave
+Veracruz,Tierra Blanca,30174,NA,Veracruz de Ignacio de la Llave
+Veracruz,Tihuatlán,30175,NA,Veracruz de Ignacio de la Llave
+Veracruz,Tlachichilco,30180,NA,Veracruz de Ignacio de la Llave
+Veracruz,Tlacojalpan,30176,NA,Veracruz de Ignacio de la Llave
+Veracruz,Tlacolulan,30177,NA,Veracruz de Ignacio de la Llave
+Veracruz,Tlacotalpan,30178,NA,Veracruz de Ignacio de la Llave
+Veracruz,Tlacotepec de Mejía,30179,NA,Veracruz de Ignacio de la Llave
+Veracruz,Tlalixcoyan,30181,NA,Veracruz de Ignacio de la Llave
+Veracruz,Tlalnelhuayocan,30182,NA,Veracruz de Ignacio de la Llave
+Veracruz,Tlaltetela,30024,NA,Veracruz de Ignacio de la Llave
+Veracruz,Tlapacoyan,30183,NA,Veracruz de Ignacio de la Llave
+Veracruz,Tlaquilpa,30184,NA,Veracruz de Ignacio de la Llave
+Veracruz,Tlilapan,30185,NA,Veracruz de Ignacio de la Llave
+Veracruz,Tomatlán,30186,NA,Veracruz de Ignacio de la Llave
+Veracruz,Tonayán,30187,NA,Veracruz de Ignacio de la Llave
+Veracruz,Totutla,30188,NA,Veracruz de Ignacio de la Llave
+Veracruz,Tres Valles,30207,NA,Veracruz de Ignacio de la Llave
+Veracruz,Tuxpan,30189,NA,Veracruz de Ignacio de la Llave
+Veracruz,Tuxtilla,30190,NA,Veracruz de Ignacio de la Llave
+Veracruz,Ursulo Galván,30191,NA,Veracruz de Ignacio de la Llave
+Veracruz,Uxpanapa,30210,NA,Veracruz de Ignacio de la Llave
+Veracruz,Vega de Alatorre,30192,NA,Veracruz de Ignacio de la Llave
+Veracruz,Veracruz,30193,NA,Veracruz de Ignacio de la Llave
+Veracruz,Villa Aldama,30194,NA,Veracruz de Ignacio de la Llave
+Veracruz,Xalapa,30087,NA,Veracruz de Ignacio de la Llave
+Veracruz,Xico,30092,NA,Veracruz de Ignacio de la Llave
+Veracruz,Xoxocotla,30195,NA,Veracruz de Ignacio de la Llave
+Veracruz,Yanga,30196,NA,Veracruz de Ignacio de la Llave
+Veracruz,Yecuatla,30197,NA,Veracruz de Ignacio de la Llave
+Veracruz,Zacualpan,30198,NA,Veracruz de Ignacio de la Llave
+Veracruz,Zaragoza,30199,NA,Veracruz de Ignacio de la Llave
+Veracruz,Zentla,30200,NA,Veracruz de Ignacio de la Llave
+Veracruz,Zongolica,30201,NA,Veracruz de Ignacio de la Llave
+Veracruz,Zontecomatlán de López y Fuentes,30202,NA,Veracruz de Ignacio de la Llave
+Veracruz,Zozocolco de Hidalgo,30203,NA,Veracruz de Ignacio de la Llave
+Yucatán,Abalá,31001,NA,NA
+Yucatán,Acanceh,31002,NA,NA
+Yucatán,Akil,31003,NA,NA
+Yucatán,Baca,31004,NA,NA
+Yucatán,Bokobá,31005,NA,NA
+Yucatán,Buctzotz,31006,NA,NA
+Yucatán,Cacalchén,31007,NA,NA
+Yucatán,Calotmul,31008,NA,NA
+Yucatán,Cansahcab,31009,NA,NA
+Yucatán,Cantamayec,31010,NA,NA
+Yucatán,Celestún,31011,NA,NA
+Yucatán,Cenotillo,31012,NA,NA
+Yucatán,Chacsinkín,31016,NA,NA
+Yucatán,Chankom,31017,NA,NA
+Yucatán,Chapab,31018,NA,NA
+Yucatán,Chemax,31019,NA,NA
+Yucatán,Chichimilá,31021,NA,NA
+Yucatán,Chicxulub Pueblo,31020,NA,NA
+Yucatán,Chikindzonot,31022,NA,NA
+Yucatán,Chocholá,31023,NA,NA
+Yucatán,Chumayel,31024,NA,NA
+Yucatán,Conkal,31013,NA,NA
+Yucatán,Cuncunul,31014,NA,NA
+Yucatán,Cuzamá,31015,NA,NA
+Yucatán,Dzán,31025,NA,NA
+Yucatán,Dzemul,31026,NA,NA
+Yucatán,Dzidzantún,31027,NA,NA
+Yucatán,Dzilam de Bravo,31028,NA,NA
+Yucatán,Dzilam González,31029,NA,NA
+Yucatán,Dzitás,31030,NA,NA
+Yucatán,Dzoncauich,31031,NA,NA
+Yucatán,Espita,31032,NA,NA
+Yucatán,Halachó,31033,NA,NA
+Yucatán,Hocabá,31034,NA,NA
+Yucatán,Hoctún,31035,NA,NA
+Yucatán,Homún,31036,NA,NA
+Yucatán,Huhí,31037,NA,NA
+Yucatán,Hunucmá,31038,NA,NA
+Yucatán,Ixil,31039,NA,NA
+Yucatán,Izamal,31040,NA,NA
+Yucatán,Kanasín,31041,NA,NA
+Yucatán,Kantunil,31042,NA,NA
+Yucatán,Kaua,31043,NA,NA
+Yucatán,Kinchil,31044,NA,NA
+Yucatán,Kopomá,31045,NA,NA
+Yucatán,Mama,31046,NA,NA
+Yucatán,Maní,31047,NA,NA
+Yucatán,Maxcanú,31048,NA,NA
+Yucatán,Mayapán,31049,NA,NA
+Yucatán,Mérida,31050,NA,NA
+Yucatán,Mocochá,31051,NA,NA
+Yucatán,Motul,31052,NA,NA
+Yucatán,Muna,31053,NA,NA
+Yucatán,Muxupip,31054,NA,NA
+Yucatán,Opichén,31055,NA,NA
+Yucatán,Oxkutzcab,31056,NA,NA
+Yucatán,Panabá,31057,NA,NA
+Yucatán,Peto,31058,NA,NA
+Yucatán,Progreso,31059,NA,NA
+Yucatán,Quintana Roo,31060,NA,NA
+Yucatán,Río Lagartos,31061,NA,NA
+Yucatán,Sacalum,31062,NA,NA
+Yucatán,Samahil,31063,NA,NA
+Yucatán,San Felipe,31065,NA,NA
+Yucatán,Sanahcat,31064,NA,NA
+Yucatán,Santa Elena,31066,NA,NA
+Yucatán,Seyé,31067,NA,NA
+Yucatán,Sinanché,31068,NA,NA
+Yucatán,Sotuta,31069,NA,NA
+Yucatán,Sucilá,31070,NA,NA
+Yucatán,Sudzal,31071,NA,NA
+Yucatán,Suma,31072,NA,NA
+Yucatán,Tahdziú,31073,NA,NA
+Yucatán,Tahmek,31074,NA,NA
+Yucatán,Teabo,31075,NA,NA
+Yucatán,Tecoh,31076,NA,NA
+Yucatán,Tekal de Venegas,31077,NA,NA
+Yucatán,Tekantó,31078,NA,NA
+Yucatán,Tekax,31079,NA,NA
+Yucatán,Tekit,31080,NA,NA
+Yucatán,Tekom,31081,NA,NA
+Yucatán,Telchac Pueblo,31082,NA,NA
+Yucatán,Telchac Puerto,31083,NA,NA
+Yucatán,Temax,31084,NA,NA
+Yucatán,Temozón,31085,NA,NA
+Yucatán,Tepakán,31086,NA,NA
+Yucatán,Tetiz,31087,NA,NA
+Yucatán,Teya,31088,NA,NA
+Yucatán,Ticul,31089,NA,NA
+Yucatán,Timucuy,31090,NA,NA
+Yucatán,Tinum,31091,NA,NA
+Yucatán,Tixcacalcupul,31092,NA,NA
+Yucatán,Tixkokob,31093,NA,NA
+Yucatán,Tixmehuac,31094,NA,NA
+Yucatán,Tixpéhual,31095,NA,NA
+Yucatán,Tizimín,31096,NA,NA
+Yucatán,Tunkás,31097,NA,NA
+Yucatán,Tzucacab,31098,NA,NA
+Yucatán,Uayma,31099,NA,NA
+Yucatán,Ucú,31100,NA,NA
+Yucatán,Umán,31101,NA,NA
+Yucatán,Valladolid,31102,NA,NA
+Yucatán,Xocchel,31103,NA,NA
+Yucatán,Yaxcabá,31104,NA,NA
+Yucatán,Yaxkukul,31105,NA,NA
+Yucatán,Yobaín,31106,NA,NA
+Zacatecas,Apozol,32001,NA,NA
+Zacatecas,Apulco,32002,NA,NA
+Zacatecas,Atolinga,32003,NA,NA
+Zacatecas,Benito Juárez,32004,NA,NA
+Zacatecas,Calera,32005,NA,NA
+Zacatecas,Cañitas de Felipe Pescador,32006,NA,NA
+Zacatecas,Chalchihuites,32009,NA,NA
+Zacatecas,Concepción del Oro,32007,NA,NA
+Zacatecas,Cuauhtémoc,32008,NA,NA
+Zacatecas,El Plateado de Joaquín Amaro,32015,NA,NA
+Zacatecas,El Salvador,32041,NA,NA
+Zacatecas,Fresnillo,32010,NA,NA
+Zacatecas,Genaro Codina,32012,NA,NA
+Zacatecas,General Enrique Estrada,32013,NA,NA
+Zacatecas,General Francisco R. Murguía,32014,NA,NA
+Zacatecas,General Pánfilo Natera,32016,NA,NA
+Zacatecas,Guadalupe,32017,NA,NA
+Zacatecas,Huanusco,32018,NA,NA
+Zacatecas,Jalpa,32019,NA,NA
+Zacatecas,Jerez,32020,NA,NA
+Zacatecas,Jiménez del Teul,32021,NA,NA
+Zacatecas,Juan Aldama,32022,NA,NA
+Zacatecas,Juchipila,32023,NA,NA
+Zacatecas,Loreto,32024,NA,NA
+Zacatecas,Luis Moya,32025,NA,NA
+Zacatecas,Mazapil,32026,NA,NA
+Zacatecas,Melchor Ocampo,32027,NA,NA
+Zacatecas,Mezquital del Oro,32028,NA,NA
+Zacatecas,Miguel Auza,32029,NA,NA
+Zacatecas,Momax,32030,NA,NA
+Zacatecas,Monte Escobedo,32031,NA,NA
+Zacatecas,Morelos,32032,NA,NA
+Zacatecas,Moyahua de Estrada,32033,NA,NA
+Zacatecas,Nochistlán de Mejía,32034,NA,NA
+Zacatecas,Noria de Ángeles,32035,NA,NA
+Zacatecas,Ojocaliente,32036,NA,NA
+Zacatecas,Pánuco,32037,NA,NA
+Zacatecas,Pinos,32038,NA,NA
+Zacatecas,Río Grande,32039,NA,NA
+Zacatecas,Sain Alto,32040,NA,NA
+Zacatecas,Santa María de la Paz,32058,NA,NA
+Zacatecas,Sombrerete,32042,NA,NA
+Zacatecas,Susticacán,32043,NA,NA
+Zacatecas,Tabasco,32044,NA,NA
+Zacatecas,Tepechitlán,32045,NA,NA
+Zacatecas,Tepetongo,32046,NA,NA
+Zacatecas,Teúl de González Ortega,32047,NA,NA
+Zacatecas,Tlaltenango de Sánchez Román,32048,NA,NA
+Zacatecas,Trancoso,32057,NA,NA
+Zacatecas,Trinidad García de la Cadena,32011,NA,NA
+Zacatecas,Valparaíso,32049,NA,NA
+Zacatecas,Vetagrande,32050,NA,NA
+Zacatecas,Villa de Cos,32051,NA,NA
+Zacatecas,Villa García,32052,NA,NA
+Zacatecas,Villa González Ortega,32053,NA,NA
+Zacatecas,Villa Hidalgo,32054,NA,NA
+Zacatecas,Villanueva,32055,NA,NA
+Zacatecas,Zacatecas,32056,NA,NA
